@@ -1,0 +1,2273 @@
+
+<!doctype html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="google-site-verification" content="uQY2LRM1TklVCIstNo8APrH0olR31Exya_w1GFys22U">
+<meta name="google-site-verification" content="yW8yu5Uacx6b8DphSpI_zglaUBd0O_ev50Fd26usmFI">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/56467325013/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="c1c9ee34dd58a3409342a0dfe7f3ce1a">
+<meta id="in-context-paypal-metadata" data-shop-id="56467325013" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="EUR">
+<link rel="alternate" hreflang="x-default" href="https://www.nobs.eu/">
+<link rel="alternate" hreflang="en-FR" href="https://www.nobs.eu/en-fr">
+<link rel="alternate" hreflang="en-NL" href="https://www.nobs.eu/en-nl">
+<link rel="alternate" hreflang="en-BE" href="https://www.nobs.eu/">
+<script async="async" src="/checkouts/internal/preloads.js?locale=en-BE"></script>
+<link rel="preconnect" href="https://shop.app" crossorigin="anonymous">
+<script async="async" src="https://shop.app/checkouts/internal/preloads.js?locale=en-BE&shop_id=56467325013" crossorigin="anonymous"></script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":56467325013,"countryCode":"BE","currencyCode":"EUR","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/56467325013","merchantName":"NO BS","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","maestro","masterCard","amex"],"total":{"type":"pending","label":"NO BS","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":false}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"c1c9ee34dd58a3409342a0dfe7f3ce1a","betas":["rich-media-storefront-analytics"],"domain":"www.nobs.eu","predictiveSearch":true,"shopId":56467325013,"smart_payment_buttons_url":"https:\/\/www.nobs.eu\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/www.nobs.eu\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "no-bs-boil.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"EUR","rate":"1.0"};
+Shopify.country = "BE";
+Shopify.theme = {"name":"NOBS - Website 2.1","id":166981370193,"schema_name":null,"schema_version":null,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "www.nobs.eu/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script id="shop-js-analytics" type="application/json">{"pageType":"index"}</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"login-button":["modules/client.login-button_8knyv73M.en.esm.js","modules/chunk.common_DCmY8Zac.esm.js"],"shop-pay-payment-request":["modules/client.shop-pay-payment-request_BU6ue4ag.en.esm.js","modules/chunk.common_DCmY8Zac.esm.js","modules/client.login-button_8knyv73M.en.esm.js","modules/chunk.shop-pay_Dgp_3uvF.esm.js"],"payment-terms":["modules/client.payment-terms_BzPahTuF.en.esm.js","modules/chunk.common_DCmY8Zac.esm.js","modules/client.login-button_8knyv73M.en.esm.js"],"pay-button":["modules/client.pay-button_D8dp9wxo.en.esm.js","modules/chunk.common_DCmY8Zac.esm.js"],"discount-app":["modules/client.discount-app_BHUzgLHf.en.esm.js","modules/chunk.common_DCmY8Zac.esm.js"],"avatar":["modules/client.avatar_BTnouDA3.en.esm.js"],"init-shop-for-new-customer-accounts":["modules/client.init-shop-for-new-customer-accounts_mXKTRX4N.en.esm.js","modules/chunk.common_DCmY8Zac.esm.js","modules/client.login-button_8knyv73M.en.esm.js"],"init-shop-email-lookup-coordinator":["modules/client.init-shop-email-lookup-coordinator_ZIyf0vSn.en.esm.js","modules/chunk.common_DCmY8Zac.esm.js"],"init-customer-accounts-sign-up":["modules/client.init-customer-accounts-sign-up_XBTSMnuG.en.esm.js","modules/chunk.common_DCmY8Zac.esm.js","modules/client.login-button_8knyv73M.en.esm.js"],"init-customer-accounts":["modules/client.init-customer-accounts_ONkwF8rK.en.esm.js","modules/chunk.common_DCmY8Zac.esm.js","modules/client.login-button_8knyv73M.en.esm.js"]};
+</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/cdn.shopify.com\/s\/files\/1\/0564\/6732\/5013\/t\/2\/assets\/yoast-active-script.js?v=1664273703\u0026shop=no-bs-boil.myshopify.com","\/\/cdn.shopify.com\/proxy\/a7d6580f63719fdb3223c8ef77d88b252b919b66a2506e16a62d72bb092d0134\/customers.shop.paywhirl.com\/js\/post-checkout-widget.js?shop=no-bs-boil.myshopify.com\u0026sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA","https:\/\/gdprcdn.b-cdn.net\/js\/gdpr_cookie_consent.min.js?shop=no-bs-boil.myshopify.com","https:\/\/cdn.weglot.com\/weglot_script_tag.js?shop=no-bs-boil.myshopify.com","https:\/\/ecommplugins-scripts.trustpilot.com\/v2.1\/js\/header.min.js?settings=eyJrZXkiOiJYblhIcFQzMVhtMnpia3BUIiwicyI6InNrdSJ9\u0026v=2.5\u0026shop=no-bs-boil.myshopify.com","https:\/\/ecommplugins-trustboxsettings.trustpilot.com\/no-bs-boil.myshopify.com.js?settings=1680092278243\u0026shop=no-bs-boil.myshopify.com","https:\/\/cdn.nfcube.com\/instafeed-86b16924c615e986f791c243496ef6ff.js?shop=no-bs-boil.myshopify.com","https:\/\/geolocation-recommendations.shopifyapps.com\/locale_bar\/script.js?shop=no-bs-boil.myshopify.com","https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=XHpmez\u0026shop=no-bs-boil.myshopify.com","https:\/\/loox.io\/widget\/v7Ux3rlth8\/loox.1730996168999.js?shop=no-bs-boil.myshopify.com","https:\/\/cdn.rebuyengine.com\/onsite\/js\/rebuy.js?shop=no-bs-boil.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":56467325013,"offset":3600,"reqid":"eaa36459-3647-467e-9cf1-d7ccdba394c8-1732126462","pageurl":"www.nobs.eu\/","u":"26e1c21a014d","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=[[t,t],['blogs',n],['comments',n],[t,'customer']],c=[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']],r=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(',');function s(t,e,n=!1){try{const o=window.sessionStorage;for(const[n,c]of Object.entries(JSON.parse(o.getItem(e))))t.elements[n]&&(t.elements[n].value=c);n&&o.removeItem(e)}catch{}}const a='form_key',i=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response','password'],u=()=>{try{return window.sessionStorage}catch{return}},m=t=>t.elements[a],f='form_type',d='cptcha';function p(t){t.dataset[d]=!0}const l=window,h=l.document,_='Shopify',y='ce_forms',E='captcha';let v=!1;((t,e)=>{const n=(g='f06e6c50-85a8-45c8-87d0-21a2b65856fe','https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.4.0.iife.js',T={infoText:'Protected by hCaptcha',privacyText:'Privacy',termsText:'Terms'},(t,e,n)=>{const o=l[_][y],c=o.bindForm;if(c)return c(t,g,e,T).then(n);o.q.push([[t,g,e,T],n]),v||(h.body.append(Object.assign(h.createElement('script'),{id:'captcha-provider',async:!0,src:'https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.4.0.iife.js'})),v=!0)});var g,T;l[_]=l[_]||{},l[_][y]=l[_][y]||{},l[_][y].q=[],l[_][E]=l[_][E]||{},l[_][E].protect=function(t,e){n(t,void 0,e),p(t)},Object.freeze(l[_][E]),function(t,e,n,l,h,_){const[y,E,v,g]=function(t,e,n){const s=e?o:[],a=t?c:[],i=[...s,...a],u=[...o],m=r(i),f=r(s),d=n&&r(i.filter((([t,e])=>n.includes(e)))),p=r(u),l=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];return[l(m),l(f),l(d),l(p)]}(l,h,_),T=t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form},S=t=>y().includes(t);t.addEventListener('submit',(t=>{const e=T(t);if(!e)return;const n=S(e)&&!e.dataset.hcaptchaBound&&!e.dataset.recaptchaBound,o=m(e),c=g().includes(e)&&(!o||!o.value);(n||c)&&t.preventDefault(),c&&!n&&(function(t){try{if(!u())return;!function(t){const e=u();if(!e)return;const n=m(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){m(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:a})),t.elements[a].value=e}(t,e),function(t,e){const n=u();if(!n)return;const o=[...t.querySelectorAll('input[type="password"]')].map((({name:t})=>t)),c=[...i,...o],r={};for(const[s,a]of new FormData(t).entries())c.includes(s)||(r[s]=a);n.setItem(e,JSON.stringify(r))}(t,e)}catch(e){console.error('failed to persist form',e)}}(e),e.submit())}));const w=(t,e)=>{t&&!t.dataset[d]&&(n(t,e.some((e=>e===t))),p(t))};for(const o of['focusin','change'])t.addEventListener(o,(t=>{const e=T(t);S(e)&&w(e,E())}));const A=e.get('form_key'),b=e.get(f),I=A&&b;t.addEventListener('DOMContentLoaded',(()=>{const t=E();if(I)for(const e of t)e.elements[f].value===b&&s(e,A);[...new Set([...v(),...y().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>w(e,t)))}))}(h,new URLSearchParams(l.location.search),n,!0,!0,['guest_login'])})()}();</script>
+<script integrity="sha256-EGCDRYTvIEOXsReXgqGwkAR+5Dl8tickSrieA/ZcQwc=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//www.nobs.eu/cdn/shopifycloud/shopify/assets/storefront/load_feature-1060834584ef204397b1179782a1b090047ee4397cb627244ab89e03f65c4307.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//www.nobs.eu/cdn/shopifycloud/shopify/assets/shopify_pay/storefront-80e528be853eac23af2454534897ca9536b1d3d04aa043b042f34879a3c111c8.js?v=20220906"></script>
+<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="https://www.nobs.eu/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",t.type="module",document.head.appendChild(t)}};
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.buyer_consent">
+  function portableWalletsHideBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.add("hidden"),t.setAttribute("aria-hidden","true"),n.removeEventListener("click",e))}function portableWalletsShowBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.remove("hidden"),t.removeAttribute("aria-hidden"),n.addEventListener("click",e))}window.Shopify?.PaymentButton&&(window.Shopify.PaymentButton.hideBuyerConsent=portableWalletsHideBuyerConsent,window.Shopify.PaymentButton.showBuyerConsent=portableWalletsShowBuyerConsent);
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.cart.bootstrap">document.addEventListener("DOMContentLoaded",(function(){function t(){return document.querySelector("shopify-accelerated-checkout-cart, shopify-accelerated-checkout")}if(t())Shopify.PaymentButton.init();else{new MutationObserver((function(e,n){t()&&(Shopify.PaymentButton.init(),n.disconnect())})).observe(document.body,{childList:!0,subtree:!0})}}));
+</script>
+
+
+
+<style id="shopify-accelerated-checkout-cart">
+        #dynamic-checkout-cart {
+  container-type: inline-size;
+  container-name: dcc;
+  width: 100%;
+}
+
+.wallet-cart-grid {
+  --wallet-button-height-horizontal: clamp(
+    25px,
+    var(
+      --shopify-accelerated-checkout-button-inline-size,
+      42px
+    ),
+    55px
+  );
+  --wallet-button-height-vertical: clamp(
+    25px,
+    var(
+      --shopify-accelerated-checkout-button-block-size,
+      54px
+    ),
+    55px
+  );
+  --wallet-button-width-horizontal: 150px;
+  --wallet-button-width-vertical: 100%;
+  --wallet-button-border-radius: var(
+    --shopify-accelerated-checkout-button-border-radius,
+    4px
+  );
+  --wallet-grid-margin-horizontal: 0 -5px -5px -5px;
+  --wallet-button-container-margin-horizontal: 0 5px 5px;
+  --wallet-button-container-margin-vertical: var(--shopify-accelerated-checkout-row-gap, 8px) 0 0;
+}
+
+@keyframes acceleratedCheckoutLoadingSkeleton {
+  50% {opacity: var(--shopify-accelerated-checkout-skeleton-animation-opacity-start, 1);}
+  75% {opacity: var(--shopify-accelerated-checkout-skeleton-animation-opacity-end, 0.5);}
+  100% {opacity: var(--shopify-accelerated-checkout-skeleton-animation-opacity-start, 1);}
+}
+
+.wallet-cart-button__skeleton {
+  animation: acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration, 4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function, ease) infinite;
+  animation-delay: -0.168s;
+  background-color: var(--shopify-accelerated-checkout-skeleton-background-color, #dedede);
+  box-sizing: border-box;
+  text-decoration: none !important;
+}
+
+.wallet-cart-grid {
+  margin: var(--wallet-grid-margin-horizontal);
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: var(--shopify-accelerated-checkout-inline-alignment, start);
+  gap: 0 !important;
+}
+
+.wallet-cart-grid--skeleton {
+  justify-content: var(--shopify-accelerated-checkout-inline-alignment, inherit);
+}
+
+.wallet-cart-button-container {
+  position: relative;
+  margin: var(--wallet-button-container-margin-horizontal);
+}
+
+.wallet-cart-button-container,
+.wallet-cart-button {
+  width: var(--wallet-button-width-horizontal);
+  height: var(--wallet-button-height-horizontal);
+  border-radius: var(--wallet-button-border-radius);
+  list-style-type: none !important;
+  text-align: center;
+  flex-shrink: 0;
+  flex-grow: 0;
+}
+
+.additional-checkout-buttons--vertical .wallet-cart-grid {
+  justify-content: start;
+  flex-direction: column;
+  margin: 0;
+}
+.additional-checkout-buttons--vertical .wallet-cart-grid .wallet-cart-button-container {
+  width: var(--wallet-button-width-vertical);
+  height: var(--wallet-button-height-vertical);
+  margin: var(--wallet-button-container-margin-vertical);
+}
+.additional-checkout-buttons--vertical .wallet-cart-grid .wallet-cart-button-container:first-child {
+  margin-top: 0;
+}
+.additional-checkout-buttons--vertical .wallet-cart-grid .wallet-cart-button {
+  width: var(--wallet-button-width-vertical);
+  height: var(--wallet-button-height-vertical);
+}
+
+.additional-checkout-buttons--horizontal .wallet-cart-grid .wallet-cart-button-container,
+.additional-checkout-buttons--horizontal .wallet-cart-grid .wallet-cart-button {
+  width: var(--wallet-button-width-horizontal) !important;
+  height: var(--wallet-button-height-horizontal) !important;
+  border-radius: var(--wallet-button-border-radius) !important;
+}
+
+@container dcc (width >= 150px) and (width <= 500px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(1)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(2))) {
+    justify-content: start;
+    flex-direction: column;
+    margin: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(1)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(2))) .wallet-cart-button-container {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+    margin: var(--wallet-button-container-margin-vertical);
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(1)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(2))) .wallet-cart-button-container:first-child {
+    margin-top: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(1)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(2))) .wallet-cart-button {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+  }
+}
+
+@container dcc (width <= 310px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(2)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(3))) {
+    justify-content: start;
+    flex-direction: column;
+    margin: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(2)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(3))) .wallet-cart-button-container {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+    margin: var(--wallet-button-container-margin-vertical);
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(2)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(3))) .wallet-cart-button-container:first-child {
+    margin-top: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(2)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(3))) .wallet-cart-button {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+  }
+}
+
+@container dcc (width <= 470px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(3)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(4))) {
+    justify-content: start;
+    flex-direction: column;
+    margin: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(3)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(4))) .wallet-cart-button-container {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+    margin: var(--wallet-button-container-margin-vertical);
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(3)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(4))) .wallet-cart-button-container:first-child {
+    margin-top: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(3)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(4))) .wallet-cart-button {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+  }
+}
+
+@container dcc (width <= 630px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(4)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(5))) {
+    justify-content: start;
+    flex-direction: column;
+    margin: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(4)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(5))) .wallet-cart-button-container {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+    margin: var(--wallet-button-container-margin-vertical);
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(4)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(5))) .wallet-cart-button-container:first-child {
+    margin-top: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(4)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(5))) .wallet-cart-button {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+  }
+}
+
+@container dcc (width <= 790px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(5)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(6))) {
+    justify-content: start;
+    flex-direction: column;
+    margin: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(5)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(6))) .wallet-cart-button-container {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+    margin: var(--wallet-button-container-margin-vertical);
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(5)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(6))) .wallet-cart-button-container:first-child {
+    margin-top: 0;
+  }
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(5)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(6))) .wallet-cart-button {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+  }
+}
+
+.wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(6)) {
+  justify-content: start;
+  flex-direction: column;
+  margin: 0;
+}
+.wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(6)) .wallet-cart-button-container {
+  width: var(--wallet-button-width-vertical);
+  height: var(--wallet-button-height-vertical);
+  margin: var(--wallet-button-container-margin-vertical);
+}
+.wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(6)) .wallet-cart-button-container:first-child {
+  margin-top: 0;
+}
+.wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(6)) .wallet-cart-button {
+  width: var(--wallet-button-width-vertical);
+  height: var(--wallet-button-height-vertical);
+}
+
+@media screen and (max-width: 750px) {
+  .wallet-cart-grid {
+    justify-content: start;
+    flex-direction: column;
+    max-width: none;
+    margin: 0;
+  }
+  .wallet-cart-grid .wallet-cart-button-container {
+    max-width: none;
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+    margin: var(--wallet-button-container-margin-vertical);
+  }
+  .wallet-cart-grid .wallet-cart-button-container:first-child {
+    margin-top: 0;
+  }
+  .wallet-cart-grid .wallet-cart-button {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+  }
+}
+
+@supports (not (container-type: inline-size)) or (not (selector(:has(*)))) {
+  .wallet-cart-grid {
+    justify-content: start;
+    flex-direction: column;
+    margin: 0;
+  }
+  .wallet-cart-button-container {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+    margin: var(--wallet-button-container-margin-vertical);
+  }
+  .wallet-cart-button-container:first-child {
+    margin-top: 0;
+  }
+  .wallet-cart-grid .wallet-cart-button {
+    width: var(--wallet-button-width-vertical);
+    height: var(--wallet-button-height-vertical);
+  }
+}
+
+        #shopify-buyer-consent {
+  margin-top: 1em;
+  display: inline-block;
+  width: 100%;
+}
+
+#shopify-buyer-consent.hidden {
+  display: none;
+}
+
+#shopify-subscription-policy-button {
+  background: none;
+  border: none;
+  padding: 0;
+  text-decoration: underline;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+#shopify-subscription-policy-button::before {
+  box-shadow: none;
+}
+
+      </style>
+
+<style id="shopify-accelerated-checkout-cart-grid-with-margin-top">.additional-checkout-buttons--vertical .wallet-cart-grid .wallet-cart-button-container:first-child {
+  margin-top: 8px;
+}
+
+
+@container dcc (width >= 150px) and (width <= 500px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(1)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(2))) .wallet-cart-button-container:first-child {
+    margin-top: 8px;
+  }
+}
+
+@container dcc (width <= 310px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(2)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(3))) .wallet-cart-button-container:first-child {
+    margin-top: 8px;
+  }
+}
+
+@container dcc (width <= 470px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(3)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(4))) .wallet-cart-button-container:first-child {
+    margin-top: 8px;
+  }
+}
+
+@container dcc (width <= 630px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(4)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(5))) .wallet-cart-button-container:first-child {
+    margin-top: 8px;
+  }
+}
+
+@container dcc (width <= 790px) {
+  .wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(5)).wallet-cart-grid:not(:has(>.wallet-cart-button-container:nth-of-type(6))) .wallet-cart-button-container:first-child {
+    margin-top: 8px;
+  }
+}
+
+.wallet-cart-grid:has(>.wallet-cart-button-container:nth-of-type(6)) .wallet-cart-button-container:first-child {
+  margin-top: 8px;
+}
+
+@media screen and (max-width: 750px) {
+  .wallet-cart-grid .wallet-cart-button-container:first-child {
+    margin-top: 8px;
+  }
+}
+
+@supports (not (container-type: inline-size)) or (not (selector(:has(*)))) {
+  .wallet-cart-button-container:first-child {
+    margin-top: 8px;
+  }
+}
+</style>
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+      rel="stylesheet"
+    >
+    <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
+
+    <link href="//www.nobs.eu/cdn/shop/t/21/assets/Druk-Medium.woff?v=163973956256884692011730468424" as="font" type="font/woff" rel="preload">
+
+    <link href="//www.nobs.eu/cdn/shop/t/21/assets/bootstrap-grid.min.css?v=78624024895691697191723811873" rel="stylesheet" type="text/css" media="all" />
+    <link href="//www.nobs.eu/cdn/shop/t/21/assets/reset.css?v=32291459618604221281726673441" rel="stylesheet" type="text/css" media="all" />
+    <link href="//www.nobs.eu/cdn/shop/t/21/assets/base.css?v=123818224041857844611731325870" rel="stylesheet" type="text/css" media="all" />
+    <link href="//www.nobs.eu/cdn/shop/t/21/assets/forms.css?v=9726895697572223271730453223" rel="stylesheet" type="text/css" media="all" />
+  <link rel="canonical" href="https://www.nobs.eu/">
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 56467325013,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function d(d,e,r,a,n){var o,i,t,s,l=(i=(o={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](12[89]|1[3-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(12[7-9]|1[3-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(12[89]|1[3-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](12[89]|1[3-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(12[7-9]|1[3-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(12[89]|1[3-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/}).modern,t=o.legacy,s=navigator.userAgent,i.test(s)?"modern":(t.test(s),"legacy"));window.Shopify=window.Shopify||{};var c=window.Shopify;c.analytics=c.analytics||{};var u=c.analytics;u.replayQueue=[],u.publish=function(d,e,r){return u.replayQueue.push([d,e,r]),!0};try{self.performance.mark("wpm:start")}catch(d){}var h=[r,"/wpm","/b",n,l.substring(0,1),".js"].join("");!function(d){var e=d.src,r=d.async,a=void 0===r||r,n=d.onload,o=d.onerror,i=document.createElement("script"),t=document.head,s=document.body;i.async=a,i.src=e,n&&i.addEventListener("load",n),o&&i.addEventListener("error",o),t?t.appendChild(i):s?s.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:h,async:!0,onload:function(){var r=window.webPixelsManager.init(d);e(r);var a=window.Shopify.analytics;a.replayQueue.forEach((function(d){var e=d[0],a=d[1],n=d[2];r.publishCustomEvent(e,a,n)})),a.replayQueue=[],a.publish=r.publishCustomEvent,a.visitor=r.visitor},onerror:function(){var e=d.storefrontBaseUrl.replace(/\/$/,""),r="".concat(e,"/.well-known/shopify/monorail/unstable/produce_batch"),n=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/3.1",payload:{version:a||"latest",bundle_target:l,page_url:self.location.href,status:"failed",surface:d.surface,error_msg:"".concat(h," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(r,n))return!0}catch(d){}var o=new XMLHttpRequest;try{return o.open("POST",r,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(n),!0}catch(d){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 56467325013,storefrontBaseUrl: "https://www.nobs.eu",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",surface: "storefront-renderer",enabledBetaFlags: [],webPixelsConfigList: [{"id":"1032913233","configuration":"{\"config\":\"{\\\"pixel_id\\\":\\\"G-EDRSYD4XY2\\\",\\\"target_country\\\":\\\"BE\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"search\\\",\\\"action_label\\\":[\\\"G-EDRSYD4XY2\\\",\\\"AW-10989627912\\\/swIZCOzVvIkYEIjUofgo\\\"]},{\\\"type\\\":\\\"begin_checkout\\\",\\\"action_label\\\":[\\\"G-EDRSYD4XY2\\\",\\\"AW-10989627912\\\/karxCOnVvIkYEIjUofgo\\\"]},{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":[\\\"G-EDRSYD4XY2\\\",\\\"AW-10989627912\\\/2iBYCOPVvIkYEIjUofgo\\\",\\\"MC-PN3T31EHL1\\\"]},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":[\\\"G-EDRSYD4XY2\\\",\\\"AW-10989627912\\\/RjrxCODVvIkYEIjUofgo\\\",\\\"MC-PN3T31EHL1\\\"]},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":[\\\"G-EDRSYD4XY2\\\",\\\"AW-10989627912\\\/rbE9CN3VvIkYEIjUofgo\\\",\\\"MC-PN3T31EHL1\\\"]},{\\\"type\\\":\\\"add_payment_info\\\",\\\"action_label\\\":[\\\"G-EDRSYD4XY2\\\",\\\"AW-10989627912\\\/2-A0CO_VvIkYEIjUofgo\\\"]},{\\\"type\\\":\\\"add_to_cart\\\",\\\"action_label\\\":[\\\"G-EDRSYD4XY2\\\",\\\"AW-10989627912\\\/5Ff3CObVvIkYEIjUofgo\\\"]}],\\\"enable_monitoring_mode\\\":false}\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"afe7c2de16587d6c6689522527d6c67f","type":"APP","apiClientId":1780363,"privacyPurposes":[]},{"id":"879001937","configuration":"{\"pixelCode\":\"CEREOJ3C77UFTJ8GUL10\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"22e92c2ad45662f435e4801458fb78cc","type":"APP","apiClientId":4383523,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"457572689","configuration":"{\"pixel_id\":\"1286596032132776\",\"pixel_type\":\"facebook_pixel\",\"metaapp_system_user_token\":\"-\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"8d894c63179843e74a9691414b5ad83d","type":"APP","apiClientId":2329312,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"183501137","configuration":"{\"tagID\":\"2613207839951\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"4fd0680eed907adaf3f85849c393d688","type":"APP","apiClientId":3009811,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"33325393","configuration":"{\"myshopifyDomain\":\"no-bs-boil.myshopify.com\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"e32653096b768840c4e834ea506d7953","type":"APP","apiClientId":2775569,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0220","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0220","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: false,initData: {"shop":{"name":"NO BS","paymentSettings":{"currencyCode":"EUR"},"myshopifyDomain":"no-bs-boil.myshopify.com","countryCode":"BE","storefrontUrl":"https:\/\/www.nobs.eu"},"customer":null,"cart":null,"checkout":null,"productVariants":[],"purchasingCompany":null},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed", {});},"https://www.nobs.eu/cdn","c56590fa1676c740228d74bb9b1cb2286ec5b6c3","260c1ab1w2bfcdd48p6e405a50mb822c730",);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'EUR';
+var meta = {"page":{"pageType":"home"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 56467325013,
+      theme_id: 166981370193,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//www.nobs.eu/cdn/s/trekkie.storefront.20de3b35f21c3bd6ff73e3f1547eb7d54e6e94e4.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = '//www.nobs.eu/cdn/s/trekkie.storefront.20de3b35f21c3bd6ff73e3f1547eb7d54e6e94e4.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = '//www.nobs.eu/cdn/s/trekkie.storefront.20de3b35f21c3bd6ff73e3f1547eb7d54e6e94e4.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":56467325013,"isMerchantRequest":null,"themeId":166981370193,"themeCityHash":"6483916960115897374","contentLanguage":"en","currency":"EUR"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"source":"trekkie-storefront-renderer","apiClientId":580111}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+  
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//www.nobs.eu/cdn/shopifycloud/shopify/assets/shop_events_listener-61fa9e0a912c675e178777d2b27f6cbd482f8912a6b0aa31fa3515985a8cd626.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script>
+<script class="boomerang">
+(function () {
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.themeName = "";
+  window.BOOMR.themeVersion = "";
+  window.BOOMR.shopId = 56467325013;
+  window.BOOMR.themeId = 166981370193;
+})();</script>
+<script
+  defer
+  src="https://www.nobs.eu/cdn/shopifycloud/perf-kit/shopify-perf-kit-1.0.1.min.js"
+  data-application="storefront-renderer"
+  data-shop-id="56467325013"
+  data-render-region="gcp-europe-west4"
+  data-page-type="index"
+  data-theme-instance-id="166981370193"
+  data-monorail-region="shop_domain"
+  data-resource-timing-sampling-rate="10"
+></script>
+</head>
+  <body class="preload">
+    <style>
+  .rebuy-button {
+  }
+  .rebuy-cart__flyout-close {
+    padding: 0;
+    color: var(--color-white) !important;
+    font-size: 24px;
+  }
+  .rebuy-cart__flyout-close:hover {
+    background-color: transparent;
+  }
+  .progress-bar-flex svg {
+    width: 55px;
+    height: auto;
+  }
+  [data-rebuy-component='title-bar'] {
+    font-size: 24px;
+  }
+  .rebuy-cart__flyout-item-product-title,
+  .rebuy-product-title,
+  .rebuy-money {
+    font-family: 'Druk';
+    font-size: 25px !important;
+    text-transform: uppercase;
+  }
+  .rebuy-cart__flyout-item-info .rebuy-money {
+    font-family: 'Druk';
+    font-size: 38px !important;
+    text-transform: uppercase;
+  }
+  @media screen and (max-width: 768px) {
+    .rebuy-cart__flyout-item-info .rebuy-money {
+      font-size: 28px !important;
+    }
+  }
+  .rebuy-cart__flyout-item-info .rebuy-money {
+  }
+  .rebuy-product-block .rebuy-custom-product-card {
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: inset 0 0 0.5px 1px hsla(0, 0%, 100%, 0.075), /* shadow ring 👇 */ 0 0 0 1px hsla(0, 0%, 0%, 0.05),
+      /* multiple soft shadows 👇 */ 0 0.3px 0.4px hsla(0, 0%, 0%, 0.02), 0 0.9px 1.5px hsla(0, 0%, 0%, 0.045),
+      0 3.5px 6px hsla(0, 0%, 0%, 0.09);
+  }
+  .rebuy-product-actions {
+    margin: 0 !important;
+  }
+  .rebuy-product-info {
+    padding-bottom: 10px;
+  }
+  .rebuy-product-block {
+    background-color: #fff;
+
+    padding: 5px !important;
+  }
+  .rebuy-product-block img {
+    border-radius: 0 !important;
+  }
+  .progress-bar-flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 24px;
+    padding-block: 21px;
+  }
+  .rebuy-cart__progress-bar-prompt {
+    font-weight: 600;
+    margin-top: 0 !important;
+    margin-bottom: 20px;
+  }
+  .rebuy-product-actions .rebuy-button svg {
+    width: 22px;
+    height: auto;
+  }
+  .rebuy-product-actions .rebuy-button {
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    padding: 0;
+    text-transform: uppercase;
+    font-size: 14px;
+    display: flex;
+    gap: 8px;
+    width: max-content;
+    padding: 9px 5px;
+  }
+
+  h4.primary-title {
+    font-size: 24px !important;
+    margin-bottom: 28px !important;
+  }
+
+  p.ql-align-center {
+    margin: 10px 0 !important;
+  }
+
+  [data-rebuy-cart-anchor='header'] {
+    background: black;
+    color: white;
+    padding-bottom: 8px;
+  }
+
+  .rebuy-cart__flyout-close,
+  #rebuy-cart-title {
+    color: white;
+  }
+
+  .rebuy-cart__progress-bar-meter-fill {
+    background: #1bd666 !important;
+  }
+
+  [data-rebuy-component='progress-bar'] .rebuy-cart__progress-bar-meter {
+    background: #808080 !important;
+  }
+
+  #rebuy-cart img {
+    border-radius: 12px;
+  }
+
+  [data-rebuy-component='cart-items'] {
+    border-color: transparent;
+  }
+</style>
+
+<script id="rebuy-recommended-template" type="text/template">
+    <div class="rebuy-widget"
+      v-cloak
+      v-on:click="stopPropagation($event)"
+      v-bind:id="'rebuy-widget-' + id"
+      v-bind:class="['widget-type-' + config.type.replace('_','-'), 'widget-display-' + config.display_type, products.length > 0 ? 'is-visible' : 'is-hidden', 'widget-layout-' + currentLayout()]">
+
+        <div
+            class="rebuy-widget-container"
+            v-cloak
+            v-bind:class="['widget-display-' + config.display_type, visible ? 'is-visible' : 'is-hidden' ]"
+            v-on:click.self="hide()">
+
+            <div class="rebuy-widget-content">
+                <div class="rebuy-modal-close" v-on:click="hide()" aria-label="close modal">
+                    <i class="fas fa-times" aria-hidden="true"></i>
+                </div>
+
+                <div class="rebuy-timer" v-if="hasTimer()">
+                    <p class="rebuy-timer-title" v-if="config.language.timer_title">
+                        <span v-html="config.language.timer_title"></span> <span class="rebuy-timer-minutes" v-html="config.timer.duration_minutes"></span>:<span class="rebuy-timer-seconds" v-html="config.timer.duration_seconds"></span>
+                    </p>
+                </div>
+
+                <h3 class="super-title" v-if="config.language.super_title != ''" v-html="config.language.super_title"></h3>
+
+                <h4 class="primary-title" v-if="config.language.title != ''" v-html="config.language.title"></h4>
+
+                <div class="description" v-if="config.language.description != ''" v-html="config.language.description"></div>
+
+                <div class="rebuy-product-grid" v-bind:class="layoutClasses" tabindex="0" role="list">
+
+                    <div
+                        v-for="(product, product_index) in products"
+                        v-bind:class="[product.handle, 'product-id-' + product.id, cartHasProduct(product) ? 'cart-has-item' : '', productTagClasses(product)]"
+                        aria-label="product"
+                        class="rebuy-product-block"
+                        role="listitem"
+                    >
+
+                    <div class="rebuy-custom-product-card">
+
+                        <div class="rebuy-product-media">
+                            <a
+                                class="rebuy-product-image"
+                                tabindex="-1"
+                                v-bind:href="learnMoreURL(product)"
+                                v-bind:style="imageStyles"
+                                v-on:click="learnMore(product, $event);"
+                                v-bind:class="[hasLearnMore() ? 'clickable' : '']"
+                                rel="nofollow"
+                            >
+                                <img v-bind:loading="product_index > 1 ? 'lazy' : 'eager'" v-bind:src="itemImage(product, product.selected_variant, '400x400')" v-bind:alt="itemImageAlt(product, product.selected_variant)">
+                            </a>
+                        </div>
+                        <div class="rebuy-product-info">
+                            <a
+                                aria-level="5"
+                                class="rebuy-product-title"
+                                v-bind:href="learnMoreURL(product)"
+                                v-on:click="learnMore(product, $event);"
+                                v-html="product.title"
+                                v-bind:class="[hasLearnMore() ? 'clickable' : '']"
+                                v-bind:aria-label="'View ' + product.title"
+                                rel="nofollow"
+                            ></a>
+                            <div class="rebuy-variant-title" v-if="showVariantTitle(product)" v-html="product.selected_variant.title"></div>
+                            <div class="rebuy-product-review" v-if="hasProductReviews(product)" aria-label="product star rating">
+                                <span class="rebuy-star-rating">
+                                    <span
+                                        v-if="product.reviews.star_rating"
+                                        class="rebuy-star-rating-value sr-only"
+                                        v-html="product.reviews.star_rating + ' stars out of 5 stars'"
+                                    >
+                                    </span>
+                                    <span class="rebuy-star-rating-background"></span>
+                                    <span class="rebuy-star-rating-foreground" v-bind:style="{ width: productReviewRatingPercentage(product) }"></span>
+                                </span>
+                                <span class="rebuy-review-count" v-html="productReviewCount(product)"></span>
+                            </div>
+
+                            <div class="rebuy-product-price">
+                                <div v-if="variantOnSale(product, product.selected_variant)">
+                                    <span class="rebuy-money sale">
+                                        <span class="sr-only">Sale price</span>
+                                        <span tabindex="0" v-html="formatMoney(variantPrice(product, product.selected_variant))"></span>
+                                    </span>
+                                    <span class="rebuy-money compare-at">
+                                        <span class="sr-only">Original price</span>
+                                        <span v-html="formatMoney(variantCompareAtPrice(product, product.selected_variant))"></span>
+                                    </span>
+                                </div>
+                                <div v-if="!(variantOnSale(product, product.selected_variant))">
+                                    <span class="rebuy-money">
+                                        <span class="sr-only">Price</span>
+                                        <span tabindex="0" v-html="formatMoney(variantPrice(product, product.selected_variant))"></span>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="rebuy-product-description" v-if="showProductDescription(product)" v-html="text(product.body_html)"></div>
+                        </div>
+                        <div class="rebuy-product-options" v-if="showVariantSelect(product)">
+                            <select
+                                title="Select product variant"
+                                :id="id + '-' + 'select' + '-' + product_index"
+                                :class="{ hide : settings.view_options.variant_selector == 'buttons' }"
+                                class="rebuy-select"
+                                v-bind:aria-label="'variant of ' + product.title"
+                                v-model="product.selected_variant_id"
+                                v-on:change="selectVariant(product)">
+                                <option v-for="variant in product.variants" v-bind:value="variant.id"></option>
+                            </select>
+                            <div v-if="displayColorSwatches(option)" v-for="option in product.options" class="rebuy-color-swatches">
+                                <div v-for="(value, value_index) in filterOOSOptions(option, product)" class="rebuy-color-swatch">
+                                    <input
+                                        :name="id + '-color-' + product_index"
+                                        :id="id + '-color-' + product_index + '-' + value + '-' + value_index"
+                                        :checked="value_index == 0"
+                                        :value="value"
+                                        type="radio"
+                                        class="rebuy-color-input hide"
+                                        v-on:change="selectVariantByColor(product, value, product_index)">
+                                    <label
+                                        :for="id + '-color-' + product_index + '-' + value + '-' + value_index"
+                                        :style="{ backgroundColor: value }"
+                                        :title="value"
+                                        class="rebuy-color-label"></label>
+                                </div>
+                            </div>
+
+                            <div v-if="displaySizeSwatches(option)" v-for="option in product.options" class="mt-10 rebuy-size-swatches">
+                                <div v-for="(value, value_index) in filterOOSOptions(option, product)" class="rebuy-size-swatch">
+
+                                    <input
+                                        :name="id + '-size-' + product_index"
+                                        :id="id + '-size-' + product_index + '-' + value"
+                                        :checked="value_index == 0"
+                                        :value="value"
+                                        type="radio"
+                                        class="rebuy-size-input hide"
+                                        v-on:change="selectVariantBySize(product, value, product_index)">
+                                    <label
+                                        :for="id + '-size-' + product_index + '-' + value"
+                                        class="rebuy-size-label"></label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="rebuy-product-actions">
+
+                            <div class="subscription-checkbox" v-if="showSubscriptionOptions(product)">
+                                <label class="rebuy-checkbox-label">
+                                    <input
+                                        class="checkbox-input rebuy-checkbox"
+                                        v-model="product.subscription"
+                                        v-on:change="toggleSubscription(product)"
+                                        type="checkbox" />
+                                    <span class="checkbox-label" v-html="upgradeToSubscriptionLabel(product)"></span>
+                                </label>
+                            </div>
+
+                            <div class="subscription-frequency" v-if="showSubscriptionFrequency(product)">
+                                <select
+                                    class="rebuy-select"
+                                    aria-label="subscription frequency"
+                                    v-model="product.subscription_frequency"
+                                    v-on:change="updateSubscriptionFrequency(product)">
+                                    <option v-for="frequency in product.subscription_frequencies" v-bind:value="frequency"></option>
+                                </select>
+                            </div>
+
+                            <div class="product-quantity" v-if="hasQuantityInputEnabled()">
+                                <div class="rebuy-select-wrapper">
+                                    <label class="rebuy-label">Quantity</label>
+                                    <select
+                                        class="rebuy-select"
+                                        aria-label="product quantity"
+                                        v-model="product.quantity">
+                                        <option v-for="n in maxQuantityInputValue()" v-bind:value="n"></option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <button
+                                class="rebuy-button"
+                                v-bind:class="{ working: (product.status != 'ready' && product.status != 'selecting') }"
+                                v-bind:disabled="!(variantAvailable(product.selected_variant)) || (product.status != 'ready' && product.status != 'selecting')"
+                                v-bind:aria-label="buttonAriaLabel(product)"
+                                v-on:click="addToCart(product)"
+                                type="button">
+                                <svg viewBox="0 0 22 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10.083 10.774H4.58301V9.11643H10.083V4.14383H11.9163V9.11643H17.4163V10.774H11.9163V15.7466H10.083V10.774Z" fill="white"/>
+  </svg>
+
+                                    <span v-html="buttonLabel(product)"></span>
+                            </button>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+
+                <div class="rebuy-modal-actions" v-if="showContinueButton()">
+                    <button
+                        class="rebuy-button decline"
+                        v-on:click="hide()"
+                        type="button">
+                            <span v-html="continueLabel()"></span>
+                    </button>
+                </div>
+
+                <div class="powered-by-rebuy">
+                    <a v-bind:href="'https://rebuyengine.com/?shop=' + config.shop.myshopify_domain" target="_blank" rel="noopener">
+                        Powered by Rebuy
+                    </a>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</script>
+
+    <style>
+      @font-face {
+        font-family: 'Druk';
+        src: url("//www.nobs.eu/cdn/shop/t/21/assets/Druk-Medium.woff?v=163973956256884692011730468424") format('woff');
+        font-weight: 500;
+      }
+    </style>
+    <div class="body-overlay"></div>
+    <!-- BEGIN sections: header-group -->
+<div id="shopify-section-sections--22554698056017__header" class="shopify-section shopify-section-group-header-group"><link href="//www.nobs.eu/cdn/shop/t/21/assets/section.header.css?v=158878362457860124901730469663" rel="stylesheet" type="text/css" media="all" />
+
+<header class="header-wrapper">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <nav class="desktop-nav">
+          <a href="/" class="logo">
+            <img src="//www.nobs.eu/cdn/shop/files/NOBSlogo.png?v=1730458596&amp;width=300" alt="" srcset="//www.nobs.eu/cdn/shop/files/NOBSlogo.png?v=1730458596&amp;width=300 300w" width="300" height="70">
+          </a>
+          <div class="cart-links">
+            <a href="/cart" class="cart">
+              <svg viewBox="0 0 22 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M19.2802 7H2.2198C1.58876 7 1.11547 7.57733 1.23922 8.19612L2.83922 16.1961C2.93271 16.6635 3.34312 17 3.8198 17H17.6802C18.1569 17 18.5673 16.6635 18.6608 16.1961L20.2608 8.19612C20.3845 7.57732 19.9112 7 19.2802 7Z" stroke="#000" stroke-width="1.5"/>
+                <path d="M6 7V5.5C6 3.01472 8.01472 1 10.5 1V1C12.9853 1 15 3.01472 15 5.5V7" stroke="#000" stroke-width="1.5"/>
+              </svg>
+            </a>
+            <button class="hamburger unstyled">
+              
+    <svg width="30" height="18" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path stroke="#000" stroke-width="2" d="M0 1h30M0 9h30M0 17h30"/>
+    </svg>
+
+  
+
+            </button>
+            <a href="/collections/all" class="button shop-button">shop</a>
+
+            <nav class="mobile-nav">
+              <div class="nav__header">
+                <a href="/" class="logo">
+                  <img src="//www.nobs.eu/cdn/shop/files/NOBSlogo.png?v=1730458596&amp;width=300" alt="" srcset="//www.nobs.eu/cdn/shop/files/NOBSlogo.png?v=1730458596&amp;width=300 300w" width="300" height="70">
+                </a>
+                <div class="right">
+                  <button class="close unstyled">
+                    
+    <svg width="20" height="20" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M2.067 19.917.084 17.933 8.017 10 .084 2.067 2.067.083l7.934 7.934L17.934.083l1.983 1.984L11.984 10l7.933 7.933-1.983 1.984-7.933-7.934-7.934 7.934Z" fill="#1D1B20"/>
+    </svg>
+  
+
+                  </button>
+                </div>
+              </div>
+
+              <ul class="nav__list">
+                
+                  <li class="nav__item body-large has-children">
+                    
+                      <a class="open" href="/collections">Shop</a>
+                    
+
+                    
+                      <ul class="child-list open">
+                        
+                          <li>
+                            
+                              <link href="//www.nobs.eu/cdn/shop/t/21/assets/snippet.product-card.css?v=129644099979825812711731357551" rel="stylesheet" type="text/css" media="all" />
+
+<div class="product-card-wrapper">
+  <div class="product-card">
+    <a href="/products/beef-liver" class="product-image">
+      <img src="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Liver.jpg?v=1731689811&amp;width=500" alt="Beef Liver" srcset="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Liver.jpg?v=1731689811&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Liver.jpg?v=1731689811&amp;width=500 500w" width="500" height="500" loading="lazy">
+    </a>
+    <div class="content">
+      
+      <a href="/products/beef-liver" class="title-link">
+        <h3 class="">Beef Liver</h3>
+        
+        
+
+        
+
+<p class="price product-price h3">
+  
+  €39
+</p>
+
+<style>
+  span.compare_at {
+    color: #b5b5b5;
+    text-decoration: line-through;
+    margin-right: 0.5rem;
+  }
+</style>
+
+      </a>
+      <div class="description body">
+        <p><meta charset="utf-8"><meta charset="utf-8"><span></span><span></span><span>Nature’s multivitamin. Essential for energy, immune support &amp; red blood cell production.</span></p>
+      </div>
+      <div class="price-line">
+        <a href="/products/beef-liver" class="button atc-button" type="submit">Shop now</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+                            
+                          </li>
+                        
+                          <li>
+                            
+                              <link href="//www.nobs.eu/cdn/shop/t/21/assets/snippet.product-card.css?v=129644099979825812711731357551" rel="stylesheet" type="text/css" media="all" />
+
+<div class="product-card-wrapper">
+  <div class="product-card">
+    <a href="/products/beef-organs" class="product-image">
+      <img src="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Organs.jpg?v=1731689903&amp;width=500" alt="Beef Organs" srcset="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Organs.jpg?v=1731689903&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Organs.jpg?v=1731689903&amp;width=500 500w" width="500" height="500" loading="lazy">
+    </a>
+    <div class="content">
+      
+      <a href="/products/beef-organs" class="title-link">
+        <h3 class="">Beef Organs</h3>
+        
+        
+
+        
+
+<p class="price product-price h3">
+  
+  €49
+</p>
+
+<style>
+  span.compare_at {
+    color: #b5b5b5;
+    text-decoration: line-through;
+    margin-right: 0.5rem;
+  }
+</style>
+
+      </a>
+      <div class="description body">
+        <p><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><span></span><span></span><span>Nature’s superfood blend. Helps with heart health, digestion, nutrient absorption and overall vitality.</span><br></p>
+      </div>
+      <div class="price-line">
+        <a href="/products/beef-organs" class="button atc-button" type="submit">Shop now</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+                            
+                          </li>
+                        
+                          <li>
+                            
+                              <link href="//www.nobs.eu/cdn/shop/t/21/assets/snippet.product-card.css?v=129644099979825812711731357551" rel="stylesheet" type="text/css" media="all" />
+
+<div class="product-card-wrapper">
+  <div class="product-card">
+    <a href="/products/beef-brain" class="product-image">
+      <img src="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Brain.jpg?v=1731689654&amp;width=500" alt="Beef Brain" srcset="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Brain.jpg?v=1731689654&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Brain.jpg?v=1731689654&amp;width=500 500w" width="500" height="500" loading="lazy">
+    </a>
+    <div class="content">
+      
+      <a href="/products/beef-brain" class="title-link">
+        <h3 class="">Beef Brain</h3>
+        
+        
+
+        
+
+<p class="price product-price h3">
+  
+  €59
+</p>
+
+<style>
+  span.compare_at {
+    color: #b5b5b5;
+    text-decoration: line-through;
+    margin-right: 0.5rem;
+  }
+</style>
+
+      </a>
+      <div class="description body">
+        <div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<p><meta charset="utf-8"><meta charset="utf-8"><span></span><span></span><span>Nature’s nootropic. Feeds your focus, mood, memory, cognitive function &amp; neuroplasticity.</span></p>
+</div>
+</div>
+</div>
+      </div>
+      <div class="price-line">
+        <a href="/products/beef-brain" class="button atc-button" type="submit">Shop now</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+                            
+                          </li>
+                        
+                          <li>
+                            
+                              <link href="//www.nobs.eu/cdn/shop/t/21/assets/snippet.product-card.css?v=129644099979825812711731357551" rel="stylesheet" type="text/css" media="all" />
+
+<div class="product-card-wrapper">
+  <div class="product-card">
+    <a href="/products/organs-bundle" class="product-image">
+      <img src="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_OrgansBundle.jpg?v=1731690032&amp;width=500" alt="Organs Bundle" srcset="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_OrgansBundle.jpg?v=1731690032&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_OrgansBundle.jpg?v=1731690032&amp;width=500 500w" width="500" height="500" loading="lazy">
+    </a>
+    <div class="content">
+      
+      <a href="/products/organs-bundle" class="title-link">
+        <h3 class="">Organs Bundle</h3>
+        
+        
+
+        
+
+<p class="price product-price h3">
+  
+    <span class="compare_at">
+      €147
+    </span>
+  
+  €117,60
+</p>
+
+<style>
+  span.compare_at {
+    color: #b5b5b5;
+    text-decoration: line-through;
+    margin-right: 0.5rem;
+  }
+</style>
+
+      </a>
+      <div class="description body">
+        <p><meta charset="utf-8"><meta charset="utf-8"><span>Nature’s full health insurance. Save money and don't miss a single nutrient organs have to offer.</span><span></span></p>
+<div class="modals"><br></div>
+      </div>
+      <div class="price-line">
+        <a href="/products/organs-bundle" class="button atc-button" type="submit">Shop now</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+                            
+                          </li>
+                        
+                      </ul>
+                    
+                  </li>
+                
+                  <li class="nav__item body-large ">
+                    
+                      <a href="/pages/about" title="">About</a>
+                    
+
+                    
+                  </li>
+                
+                  <li class="nav__item body-large ">
+                    
+                      <a href="/pages/faq" title="">Support</a>
+                    
+
+                    
+                  </li>
+                
+              </ul>
+              <ul class="nav__list footer">
+                
+                  <li class="nav__item">
+                    <a class="body-medium" href="/policies/shipping-policy">Shipping</a>
+                  </li>
+                
+                  <li class="nav__item">
+                    <a class="body-medium" href="/policies/refund-policy">Returns</a>
+                  </li>
+                
+              </ul>
+            </nav>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+</header>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const hamburger = document.querySelector('.hamburger');
+    const mobileNav = document.querySelector('.mobile-nav');
+    const bodyOverlay = document.querySelector('.body-overlay');
+    const close = document.querySelector('.close');
+
+    hamburger.addEventListener('click', function () {
+      mobileNav.classList.add('open');
+      document.querySelector('body').classList.add('menu-open');
+
+      var bodyEvListener = bodyOverlay.addEventListener(
+        'click',
+        function () {
+          mobileNav.classList.remove('open');
+          document.querySelector('body').classList.remove('menu-open');
+        },
+        { once: true }
+      );
+    });
+
+    close.addEventListener('click', function () {
+      mobileNav.classList.remove('open');
+      document.querySelector('body').classList.remove('menu-open');
+      document.removeEventListener('click', bodyEvListener);
+    });
+
+    const navItems = document.querySelectorAll('.nav__item.has-children > a');
+
+    navItems.forEach(function (item) {
+      const childList = item.nextElementSibling;
+      item.addEventListener('click', function (e) {
+        e.preventDefault();
+        childList.classList.toggle('open');
+        item.classList.toggle('open');
+      });
+    });
+  });
+</script>
+
+</div>
+<!-- END sections: header-group -->
+
+    <div id="shopify-section-template--22542215479633__hero_banner_MaBAjy" class="shopify-section"><link href="//www.nobs.eu/cdn/shop/t/21/assets/section.hero-banner.css?v=70029542316468922711731358135" rel="stylesheet" type="text/css" media="all" />
+
+<section class="hero text-left">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="hero-background-wrapper">
+          
+            <img src="//www.nobs.eu/cdn/shop/files/NOBS-banner.png?v=1730453070&amp;width=2000" alt="" srcset="//www.nobs.eu/cdn/shop/files/NOBS-banner.png?v=1730453070&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/NOBS-banner.png?v=1730453070&amp;width=832 832w, //www.nobs.eu/cdn/shop/files/NOBS-banner.png?v=1730453070&amp;width=1200 1200w, //www.nobs.eu/cdn/shop/files/NOBS-banner.png?v=1730453070&amp;width=1920 1920w, //www.nobs.eu/cdn/shop/files/NOBS-banner.png?v=1730453070&amp;width=2000 2000w" width="2000" height="1019" loading="eager" class="hero-background-image-desktop radius--large">
+          
+          
+            <img src="//www.nobs.eu/cdn/shop/files/NOBS-banner-mobile.png?v=1730453105&amp;width=1300" alt="" srcset="//www.nobs.eu/cdn/shop/files/NOBS-banner-mobile.png?v=1730453105&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/NOBS-banner-mobile.png?v=1730453105&amp;width=832 832w, //www.nobs.eu/cdn/shop/files/NOBS-banner-mobile.png?v=1730453105&amp;width=1200 1200w, //www.nobs.eu/cdn/shop/files/NOBS-banner-mobile.png?v=1730453105&amp;width=1300 1300w" width="1300" height="2614" loading="eager" class="hero-background-image-mobile radius--large">
+          
+        </div>
+        <div class="hero-wrapper">
+          <div class="hero-content">
+            
+              
+                  <div class="hero-trustpilot-container ">
+  <p><strong>Excellent</strong></p>
+  <img
+    class="trustpilot-stars"
+    src="//www.nobs.eu/cdn/shop/t/21/assets/trustpilot-stars.svg?v=131265590427778505811730457798"
+    alt=""
+    width=""
+    height=""
+  >
+  <img class="trustpilot-logo" src="//www.nobs.eu/cdn/shop/t/21/assets/trustpilot-logo.svg?v=165827898209447796521723811868" alt="" width="" height="">
+</div>
+
+              
+            
+              
+                  <h1 class="hero-headline">Nutrition as nature intended</h1>
+                
+            
+              
+                  <div class="hero-subheadline-container ">
+                    <p class="hero-subheadline body-large">
+                      Whole food, high quality supplements your body can actually absorb.
+                    </p>
+                    
+                  </div>
+                
+            
+              
+                  <div class="hero-cta-container">
+                    <a href="/collections/our-products" class="button">Shop Now</a>
+                  </div>
+                
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<style> @media screen and (max-width: 768px) {#shopify-section-template--22542215479633__hero_banner_MaBAjy .hero-wrapper {padding: 57px 38px 450px !important; }} </style></div><div id="shopify-section-template--22542215479633__logo_bar_axNFTB" class="shopify-section"><link href="//www.nobs.eu/cdn/shop/t/21/assets/section.logo-bar.css?v=122427130067607995381730106856" rel="stylesheet" type="text/css" media="all" />
+
+<div class="logo-bar-wrapper">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="logo-bar">
+          <h2 class="body-large">As seen at</h2>
+          
+            <img src="//www.nobs.eu/cdn/shop/files/Healf_Logo_500px.png?crop=center&amp;height=400&amp;v=1731511035&amp;width=400" alt="" srcset="//www.nobs.eu/cdn/shop/files/Healf_Logo_500px.png?crop=center&amp;height=400&amp;v=1731511035&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/Healf_Logo_500px.png?crop=center&amp;height=400&amp;v=1731511035&amp;width=400 400w" width="400" height="400">
+          
+            <img src="//www.nobs.eu/cdn/shop/files/Group_8.png?crop=center&amp;height=400&amp;v=1729614781&amp;width=400" alt="" srcset="//www.nobs.eu/cdn/shop/files/Group_8.png?crop=center&amp;height=400&amp;v=1729614781&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/Group_8.png?crop=center&amp;height=400&amp;v=1729614781&amp;width=400 400w" width="400" height="400">
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</div><div id="shopify-section-template--22542215479633__featured_collection_CdYNX8" class="shopify-section"><link href="//www.nobs.eu/cdn/shop/t/21/assets/section.featured-collection.css?v=38678086598262700481730106851" rel="stylesheet" type="text/css" media="all" />
+
+<div class="wrapper featured-collection-wrapper">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-header">
+          
+            <h2 class="">Our products</h2>
+            
+          
+          
+            <link href="//www.nobs.eu/cdn/shop/t/21/assets/snippet.volume_discount.css?v=57480704646757430361730456633" rel="stylesheet" type="text/css" media="all" />
+
+
+
+          
+        </div>
+      </div>
+
+      <div class="featured-collection">
+        <div class="row">
+          
+            <div class="col-12 col-md-3">
+              <link href="//www.nobs.eu/cdn/shop/t/21/assets/snippet.product-card.css?v=129644099979825812711731357551" rel="stylesheet" type="text/css" media="all" />
+
+<div class="product-card-wrapper">
+  <div class="product-card">
+    <a href="/products/beef-liver" class="product-image">
+      <img src="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Liver.jpg?v=1731689811&amp;width=500" alt="Beef Liver" srcset="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Liver.jpg?v=1731689811&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Liver.jpg?v=1731689811&amp;width=500 500w" width="500" height="500" loading="lazy">
+    </a>
+    <div class="content">
+      
+      <a href="/products/beef-liver" class="title-link">
+        <h3 class="">Beef Liver</h3>
+        
+        
+
+        
+
+<p class="price product-price h3">
+  
+  €39
+</p>
+
+<style>
+  span.compare_at {
+    color: #b5b5b5;
+    text-decoration: line-through;
+    margin-right: 0.5rem;
+  }
+</style>
+
+      </a>
+      <div class="description body">
+        <p><meta charset="utf-8"><meta charset="utf-8"><span></span><span></span><span>Nature’s multivitamin. Essential for energy, immune support &amp; red blood cell production.</span></p>
+      </div>
+      <div class="price-line">
+        <a href="/products/beef-liver" class="button atc-button" type="submit">Shop now</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+            </div>
+          
+            <div class="col-12 col-md-3">
+              <link href="//www.nobs.eu/cdn/shop/t/21/assets/snippet.product-card.css?v=129644099979825812711731357551" rel="stylesheet" type="text/css" media="all" />
+
+<div class="product-card-wrapper">
+  <div class="product-card">
+    <a href="/products/beef-organs" class="product-image">
+      <img src="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Organs.jpg?v=1731689903&amp;width=500" alt="Beef Organs" srcset="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Organs.jpg?v=1731689903&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Organs.jpg?v=1731689903&amp;width=500 500w" width="500" height="500" loading="lazy">
+    </a>
+    <div class="content">
+      
+      <a href="/products/beef-organs" class="title-link">
+        <h3 class="">Beef Organs</h3>
+        
+        
+
+        
+
+<p class="price product-price h3">
+  
+  €49
+</p>
+
+<style>
+  span.compare_at {
+    color: #b5b5b5;
+    text-decoration: line-through;
+    margin-right: 0.5rem;
+  }
+</style>
+
+      </a>
+      <div class="description body">
+        <p><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><span></span><span></span><span>Nature’s superfood blend. Helps with heart health, digestion, nutrient absorption and overall vitality.</span><br></p>
+      </div>
+      <div class="price-line">
+        <a href="/products/beef-organs" class="button atc-button" type="submit">Shop now</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+            </div>
+          
+            <div class="col-12 col-md-3">
+              <link href="//www.nobs.eu/cdn/shop/t/21/assets/snippet.product-card.css?v=129644099979825812711731357551" rel="stylesheet" type="text/css" media="all" />
+
+<div class="product-card-wrapper">
+  <div class="product-card">
+    <a href="/products/beef-brain" class="product-image">
+      <img src="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Brain.jpg?v=1731689654&amp;width=500" alt="Beef Brain" srcset="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Brain.jpg?v=1731689654&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_Brain.jpg?v=1731689654&amp;width=500 500w" width="500" height="500" loading="lazy">
+    </a>
+    <div class="content">
+      
+      <a href="/products/beef-brain" class="title-link">
+        <h3 class="">Beef Brain</h3>
+        
+        
+
+        
+
+<p class="price product-price h3">
+  
+  €59
+</p>
+
+<style>
+  span.compare_at {
+    color: #b5b5b5;
+    text-decoration: line-through;
+    margin-right: 0.5rem;
+  }
+</style>
+
+      </a>
+      <div class="description body">
+        <div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<p><meta charset="utf-8"><meta charset="utf-8"><span></span><span></span><span>Nature’s nootropic. Feeds your focus, mood, memory, cognitive function &amp; neuroplasticity.</span></p>
+</div>
+</div>
+</div>
+      </div>
+      <div class="price-line">
+        <a href="/products/beef-brain" class="button atc-button" type="submit">Shop now</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+            </div>
+          
+            <div class="col-12 col-md-3">
+              <link href="//www.nobs.eu/cdn/shop/t/21/assets/snippet.product-card.css?v=129644099979825812711731357551" rel="stylesheet" type="text/css" media="all" />
+
+<div class="product-card-wrapper">
+  <div class="product-card">
+    <a href="/products/organs-bundle" class="product-image">
+      <img src="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_OrgansBundle.jpg?v=1731690032&amp;width=500" alt="Organs Bundle" srcset="//www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_OrgansBundle.jpg?v=1731690032&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/NOBS_Product-Imagery_OrgansBundle.jpg?v=1731690032&amp;width=500 500w" width="500" height="500" loading="lazy">
+    </a>
+    <div class="content">
+      
+      <a href="/products/organs-bundle" class="title-link">
+        <h3 class="">Organs Bundle</h3>
+        
+        
+
+        
+
+<p class="price product-price h3">
+  
+    <span class="compare_at">
+      €147
+    </span>
+  
+  €117,60
+</p>
+
+<style>
+  span.compare_at {
+    color: #b5b5b5;
+    text-decoration: line-through;
+    margin-right: 0.5rem;
+  }
+</style>
+
+      </a>
+      <div class="description body">
+        <p><meta charset="utf-8"><meta charset="utf-8"><span>Nature’s full health insurance. Save money and don't miss a single nutrient organs have to offer.</span><span></span></p>
+<div class="modals"><br></div>
+      </div>
+      <div class="price-line">
+        <a href="/products/organs-bundle" class="button atc-button" type="submit">Shop now</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+            </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</div><div id="shopify-section-template--22542215479633__customer_reviews_6XzKKL" class="shopify-section"><style>
+  .customer-reviews-wrapper .stars {
+    margin-inline: auto;
+    margin-bottom: 26px;
+  }
+  .customer-reviews-wrapper h2 {
+    text-align: center;
+    margin-bottom: 64px;
+  }
+
+  .customer-reviews-wrapper .customer-review {
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    background-color: var(--color-white);
+  }
+
+  .splide__slide {
+    padding: 10px;
+  }
+  .splide__arrows {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 76px;
+  }
+  .splide__arrow {
+    position: static;
+    transform: unset;
+    background: transparent;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+    padding: 13px 22px;
+    width: max-content;
+  }
+  .splide__arrow svg {
+    fill: transparent;
+  }
+  .splide__pagination {
+    position: static;
+  }
+  .splide__pagination__page.is-active {
+    background-color: black;
+  }
+  .customer-reviews-wrapper .customer-review svg {
+    margin-bottom: 26px;
+  }
+
+  .customer-reviews-wrapper a.button {
+    font-size: 18px;
+    padding-inline: 10px;
+  }
+
+  .customer-reviews-wrapper .customer-review p.name {
+    margin-top: 20px;
+    font-size: 12px;
+  }
+
+  .customer-reviews-wrapper h3 {
+    font-size: 25px;
+    margin-bottom: 11px;
+  }
+</style>
+
+<div class="customer-reviews-wrapper wrapper">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <svg width="221" height="40" viewBox="0 0 221 40" fill="none" xmlns="http://www.w3.org/2000/svg" class="stars">
+          <path d="M19.9307 0L24.3979 13.7488H38.8543L27.1588 22.246L31.6261 35.9949L19.9307 27.4976L8.23523 35.9949L12.7025 22.246L1.00706 13.7488H15.4634L19.9307 0Z" fill="#E1691D"/>
+          <path d="M65.0303 0L69.4975 13.7488H83.9539L72.2585 22.246L76.7257 35.9949L65.0303 27.4976L53.3348 35.9949L57.8021 22.246L46.1067 13.7488H60.563L65.0303 0Z" fill="#E1691D"/>
+          <path d="M110.134 0L114.601 13.7488H129.057L117.362 22.246L121.829 35.9949L110.134 27.4976L98.4384 35.9949L102.906 22.246L91.2102 13.7488H105.667L110.134 0Z" fill="#E1691D"/>
+          <path d="M155.233 0L159.701 13.7488H174.157L162.462 22.246L166.929 35.9949L155.233 27.4976L143.538 35.9949L148.005 22.246L136.31 13.7488H150.766L155.233 0Z" fill="#E1691D"/>
+          <path d="M200.335 0L204.802 13.7488H219.259L207.563 22.246L212.03 35.9949L200.335 27.4976L188.64 35.9949L193.107 22.246L181.411 13.7488H195.868L200.335 0Z" fill="#E1691D"/>
+        </svg>
+
+        <h2>
+          What our customers say
+        </h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <div class="splide" id="reviews_carousel">
+          <div class="splide__track">
+            <ul class="splide__list">
+              
+                <li class="splide__slide">
+                  <div class="customer-review shadow">
+                    
+    <svg width="25" height="23" viewBox="0 0 25 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M22.4654 23H16.129C16.9355 20.7817 17.8571 16.6954 18.2028 13.0761H13.5945V0H25V9.5736C25 15.5279 23.5023 20.5482 22.4654 23ZM8.87097 23H2.53456C3.34101 20.7817 4.26267 16.6954 4.6083 13.0761H0V0H11.4055V9.5736C11.4055 15.5279 9.90784 20.5482 8.87097 23Z" fill="black"/>
+    </svg>
+
+  
+
+                    <h3>these supplements are amazing!</h3>
+                    <div class="rte"><p>My body was in a poor state, depleted of so many things. I started my treatment and on July (as I started travelling for the holidays) i decided to start BS ones. A month later I started to feel much more engergized.</p></div>
+                    <p class="name">Lisa</p>
+                  </div>
+                </li>
+              
+                <li class="splide__slide">
+                  <div class="customer-review shadow">
+                    
+    <svg width="25" height="23" viewBox="0 0 25 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M22.4654 23H16.129C16.9355 20.7817 17.8571 16.6954 18.2028 13.0761H13.5945V0H25V9.5736C25 15.5279 23.5023 20.5482 22.4654 23ZM8.87097 23H2.53456C3.34101 20.7817 4.26267 16.6954 4.6083 13.0761H0V0H11.4055V9.5736C11.4055 15.5279 9.90784 20.5482 8.87097 23Z" fill="black"/>
+    </svg>
+
+  
+
+                    <h3>highest quality</h3>
+                    <div class="rte"><p>Highest quality organ supplements I found. Not stored in some cheap plastic, no cheap synthetic vitamins/minerals. That’s how I like it.</p></div>
+                    <p class="name">Gaetan</p>
+                  </div>
+                </li>
+              
+                <li class="splide__slide">
+                  <div class="customer-review shadow">
+                    
+    <svg width="25" height="23" viewBox="0 0 25 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M22.4654 23H16.129C16.9355 20.7817 17.8571 16.6954 18.2028 13.0761H13.5945V0H25V9.5736C25 15.5279 23.5023 20.5482 22.4654 23ZM8.87097 23H2.53456C3.34101 20.7817 4.26267 16.6954 4.6083 13.0761H0V0H11.4055V9.5736C11.4055 15.5279 9.90784 20.5482 8.87097 23Z" fill="black"/>
+    </svg>
+
+  
+
+                    <h3>pure quality</h3>
+                    <div class="rte"><p>Pure quality, easily digestable and quick delivery. Nothing more I could ask for. Keep it simple, make it with care!</p></div>
+                    <p class="name">Brent</p>
+                  </div>
+                </li>
+              
+                <li class="splide__slide">
+                  <div class="customer-review shadow">
+                    
+    <svg width="25" height="23" viewBox="0 0 25 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M22.4654 23H16.129C16.9355 20.7817 17.8571 16.6954 18.2028 13.0761H13.5945V0H25V9.5736C25 15.5279 23.5023 20.5482 22.4654 23ZM8.87097 23H2.53456C3.34101 20.7817 4.26267 16.6954 4.6083 13.0761H0V0H11.4055V9.5736C11.4055 15.5279 9.90784 20.5482 8.87097 23Z" fill="black"/>
+    </svg>
+
+  
+
+                    <h3>finally found supplements that fit my requirements</h3>
+                    <div class="rte"><p>What for me sets these supplements apart from other supplements and the reason to why I will continue buying them, is that they don't contain any questionable ingredients or fillers.</p></div>
+                    <p class="name">Ella</p>
+                  </div>
+                </li>
+              
+              <li class="splide__slide">
+                <div class="shadow customer-review last-card">
+                  <h3>Excellent</h3>
+                  <svg width="185" height="73" viewBox="0 0 185 73" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M71.7792 58.5805H80.6758V60.2366H77.1788V69.5646H75.2531V60.2366H71.7715V58.5805H71.7792ZM80.2984 61.6154H81.9391V63.1482H81.9699C82.0238 62.9325 82.1239 62.7246 82.2703 62.5166C82.4166 62.3163 82.5938 62.1238 82.8018 61.9543C83.0097 61.7848 83.2408 61.6539 83.5027 61.546C83.7569 61.4459 84.0188 61.392 84.2884 61.392C84.4887 61.392 84.635 61.3997 84.712 61.4074C84.7891 61.4151 84.8661 61.4305 84.9508 61.4382V63.1328C84.8276 63.1097 84.7043 63.0943 84.5734 63.0789C84.4425 63.0635 84.3192 63.0558 84.196 63.0558C83.9033 63.0558 83.6183 63.1174 83.3564 63.2329C83.0945 63.3485 82.8711 63.5256 82.6708 63.749C82.4783 63.9801 82.3242 64.2574 82.2087 64.604C82.0931 64.9429 82.0392 65.3358 82.0392 65.7748V69.5569H80.283V61.6077H80.2907L80.2984 61.6154ZM93.0156 69.5723H91.2902V68.4631H91.2594C91.0437 68.8636 90.7279 69.1871 90.2965 69.4259C89.8729 69.6647 89.4338 69.788 88.9948 69.788C87.9472 69.788 87.1846 69.5338 86.7225 69.01C86.2603 68.4939 86.0215 67.7082 86.0215 66.6607V61.6077H87.7777V66.4835C87.7777 67.1844 87.9087 67.6774 88.1783 67.9624C88.4402 68.2474 88.8253 68.3938 89.3029 68.3938C89.6726 68.3938 89.9807 68.3398 90.2272 68.2243C90.4737 68.1088 90.6739 67.9624 90.828 67.7698C90.9821 67.585 91.0899 67.3539 91.1592 67.0843C91.2285 66.8224 91.2594 66.5374 91.2594 66.2216V61.6077H93.0156V69.5569V69.5723ZM96.0042 67.0227C96.0581 67.5311 96.2507 67.8931 96.5896 68.1011C96.9286 68.3013 97.3368 68.4092 97.8067 68.4092C97.9684 68.4092 98.1533 68.3938 98.369 68.3707C98.5846 68.3475 98.7772 68.2936 98.9621 68.2243C99.1469 68.155 99.2933 68.0471 99.4165 67.9085C99.5321 67.7698 99.586 67.5927 99.5783 67.3693C99.5706 67.1459 99.4858 66.9611 99.3318 66.8224C99.1777 66.6761 98.9852 66.5682 98.7387 66.4758C98.4999 66.3911 98.2303 66.314 97.9145 66.2524C97.6064 66.1908 97.2906 66.1215 96.9748 66.0521C96.6513 65.9828 96.3277 65.8904 96.0273 65.7902C95.7269 65.6901 95.4496 65.5515 95.2108 65.3743C94.9721 65.2048 94.7795 64.9815 94.6331 64.7042C94.4868 64.4346 94.4175 64.0956 94.4175 63.6951C94.4175 63.2638 94.5253 62.9017 94.7333 62.609C94.9412 62.3163 95.2108 62.0852 95.5344 61.9004C95.8579 61.7232 96.2199 61.6 96.6127 61.5229C97.0056 61.4536 97.3907 61.4151 97.745 61.4151C98.1533 61.4151 98.5538 61.4613 98.9236 61.546C99.2933 61.6308 99.6399 61.7694 99.9403 61.9697C100.241 62.1623 100.487 62.4165 100.695 62.7323C100.895 63.0404 101.019 63.4255 101.073 63.8646H99.2394C99.1546 63.4486 98.9698 63.1559 98.6617 63.0173C98.3613 62.8709 98.0069 62.8016 97.6218 62.8016C97.4985 62.8016 97.3522 62.8093 97.1827 62.8324C97.0133 62.8555 96.8592 62.894 96.7052 62.9479C96.5588 63.0019 96.4356 63.0866 96.3277 63.1944C96.2276 63.3023 96.1737 63.4409 96.1737 63.6181C96.1737 63.8338 96.2507 64.0032 96.3971 64.1342C96.5434 64.2651 96.736 64.3729 96.9825 64.4654C97.2213 64.5501 97.4908 64.6271 97.8067 64.6888C98.1148 64.7504 98.4383 64.8197 98.7618 64.889C99.0776 64.9584 99.3934 65.0508 99.7015 65.1509C100.01 65.2511 100.287 65.3897 100.526 65.5669C100.765 65.744 100.957 65.9597 101.111 66.2293C101.265 66.4989 101.334 66.8301 101.334 67.2152C101.334 67.6851 101.227 68.0857 101.011 68.4169C100.795 68.7404 100.518 69.0177 100.171 69.218C99.8325 69.4182 99.4396 69.5723 99.0237 69.6647C98.6077 69.7571 98.1841 69.8034 97.7758 69.8034C97.2752 69.8034 96.8053 69.7494 96.3817 69.6339C95.958 69.5184 95.5806 69.3489 95.2725 69.1255C94.9644 68.8944 94.7102 68.6094 94.533 68.2628C94.3558 67.9239 94.2634 67.508 94.248 67.0381H96.0196V67.0227H96.0042ZM101.789 61.6154H103.114V59.2275H104.87V61.6154H106.449V62.9248H104.87V67.1767C104.87 67.3616 104.878 67.5157 104.893 67.6543C104.909 67.7852 104.947 67.9008 105.001 67.9932C105.055 68.0857 105.14 68.155 105.255 68.2012C105.371 68.2474 105.517 68.2705 105.717 68.2705C105.841 68.2705 105.964 68.2705 106.087 68.2628C106.21 68.2551 106.334 68.2397 106.457 68.2089V69.5646C106.264 69.5877 106.072 69.6031 105.887 69.6262C105.702 69.6493 105.517 69.657 105.317 69.657C104.855 69.657 104.477 69.6108 104.2 69.5261C103.923 69.4413 103.699 69.3104 103.537 69.1409C103.376 68.9715 103.276 68.7635 103.214 68.5016C103.16 68.2474 103.122 67.9547 103.114 67.6235V62.9325H101.789V61.6077H101.774L101.789 61.6154ZM107.689 61.6154H109.345V62.6938H109.376C109.623 62.2316 109.969 61.9004 110.408 61.7001C110.847 61.4998 111.325 61.3997 111.841 61.3997C112.473 61.3997 113.012 61.5075 113.474 61.7309C113.936 61.9466 114.329 62.247 114.637 62.6398C114.945 63.0327 115.169 63.4794 115.33 63.9878C115.484 64.4962 115.561 65.0508 115.561 65.6285C115.561 66.16 115.492 66.6838 115.353 67.1767C115.215 67.6774 115.007 68.1242 114.722 68.5093C114.445 68.8944 114.082 69.2025 113.651 69.4336C113.22 69.6647 112.711 69.7803 112.126 69.7803C111.872 69.7803 111.618 69.7571 111.356 69.7109C111.102 69.6647 110.855 69.5877 110.616 69.4875C110.385 69.3874 110.162 69.2565 109.962 69.0947C109.761 68.933 109.6 68.7481 109.461 68.5324H109.43V72.507H107.674V61.6077L107.689 61.6154ZM113.821 65.6054C113.821 65.2511 113.774 64.8967 113.682 64.5578C113.59 64.2189 113.451 63.9185 113.266 63.6566C113.081 63.3947 112.85 63.1867 112.573 63.025C112.295 62.8709 111.972 62.7862 111.618 62.7862C110.878 62.7862 110.324 63.0404 109.946 63.5565C109.576 64.0648 109.384 64.7504 109.384 65.6054C109.384 66.0059 109.43 66.3834 109.53 66.7223C109.63 67.0612 109.769 67.3616 109.969 67.6081C110.162 67.8546 110.393 68.0471 110.67 68.1935C110.94 68.3398 111.263 68.4092 111.618 68.4092C112.018 68.4092 112.357 68.3244 112.634 68.1627C112.912 68.0009 113.135 67.7853 113.32 67.5234C113.497 67.2615 113.628 66.9611 113.705 66.6298C113.774 66.2986 113.813 65.952 113.813 65.6054H113.821ZM116.917 58.5882H118.673V60.2443H116.917V58.5882ZM116.917 61.6231H118.673V69.58H116.917V61.6231ZM120.237 58.5882H121.993V69.58H120.237V58.5882ZM127.362 69.7957C126.723 69.7957 126.16 69.6878 125.66 69.4798C125.167 69.2719 124.743 68.9792 124.396 68.6094C124.058 68.2397 123.788 67.793 123.611 67.2846C123.434 66.7762 123.341 66.2062 123.341 65.59C123.341 64.9738 123.434 64.4269 123.611 63.9108C123.788 63.4024 124.05 62.9556 124.396 62.5859C124.735 62.2162 125.167 61.9235 125.66 61.7155C126.153 61.5075 126.723 61.3997 127.362 61.3997C128.001 61.3997 128.564 61.5075 129.064 61.7155C129.557 61.9235 129.981 62.2162 130.328 62.5859C130.666 62.9556 130.936 63.4024 131.113 63.9108C131.29 64.4192 131.383 64.9815 131.383 65.59C131.383 66.1985 131.29 66.7685 131.113 67.2846C130.936 67.8007 130.674 68.2397 130.328 68.6094C129.989 68.9792 129.557 69.2719 129.064 69.4798C128.571 69.6878 128.001 69.7957 127.362 69.7957ZM127.362 68.4092C127.747 68.4092 128.094 68.3244 128.379 68.1627C128.664 68.0009 128.895 67.7852 129.087 67.5157C129.272 67.2538 129.403 66.9457 129.496 66.6144C129.58 66.2832 129.627 65.9366 129.627 65.59C129.627 65.2434 129.58 64.9121 129.496 64.5732C129.411 64.2343 129.272 63.9339 129.087 63.672C128.903 63.4101 128.671 63.2021 128.379 63.0327C128.094 62.8709 127.747 62.7862 127.362 62.7862C126.977 62.7862 126.63 62.8709 126.345 63.0327C126.06 63.1944 125.829 63.4101 125.637 63.672C125.452 63.9339 125.321 64.2343 125.228 64.5732C125.144 64.9121 125.097 65.2511 125.097 65.59C125.097 65.9289 125.144 66.2832 125.228 66.6144C125.313 66.9457 125.452 67.2538 125.637 67.5157C125.821 67.7775 126.053 67.9932 126.345 68.1627C126.63 68.3321 126.977 68.4092 127.362 68.4092ZM131.891 61.6231H133.216V59.2352H134.972V61.6231H136.551V62.9325H134.972V67.1844C134.972 67.3693 134.98 67.5234 134.995 67.662C135.011 67.793 135.049 67.9085 135.103 68.0009C135.157 68.0934 135.242 68.1627 135.357 68.2089C135.473 68.2551 135.619 68.2782 135.82 68.2782C135.943 68.2782 136.066 68.2782 136.189 68.2705C136.313 68.2628 136.436 68.2474 136.559 68.2166V69.5723C136.366 69.5954 136.174 69.6108 135.989 69.6339C135.804 69.657 135.619 69.6647 135.419 69.6647C134.957 69.6647 134.579 69.6185 134.302 69.5338C134.025 69.449 133.801 69.3181 133.64 69.1486C133.478 68.9792 133.378 68.7712 133.316 68.5093C133.262 68.2551 133.224 67.9624 133.216 67.6312V62.9402H131.891V61.6154H131.876L131.891 61.6231Z" fill="#010020"/>
+                    <path d="M69.7314 58.5805H61.6975L59.2172 50.9317L56.7292 58.5805H48.6953L55.2041 63.3023L52.7161 70.9434L59.2249 66.2216L65.726 70.9434L63.2457 63.3023L69.7468 58.5805H69.7314Z" fill="#00AF7A"/>
+                    <path d="M63.7941 65.0354L63.2318 63.3022L59.2109 66.2216L63.7863 65.0354H63.7941Z" fill="#005128"/>
+                    <path d="M34.6836 0.147491H0V34.8311H34.6836V0.147491Z" fill="#00AF7A"/>
+                    <path d="M72.0665 0.147491H37.3828V34.8311H72.0665V0.147491Z" fill="#00AF7A"/>
+                    <path d="M109.451 0.147491H74.7676V34.8311H109.451V0.147491Z" fill="#00AF7A"/>
+                    <path d="M146.834 0.147491H112.15V34.8311H146.834V0.147491Z" fill="#00AF7A"/>
+                    <path d="M184.211 0.147491H149.527V34.8311H184.211V0.147491Z" fill="#00AF7A"/>
+                    <path d="M24.7503 28.8911L17.3418 23.5099L22.5619 22.1552" fill="white"/>
+                    <path d="M29.337 14.794H20.1664L17.3432 6.07809L14.501 14.794L5.33984 14.7845L12.7578 20.1846L9.9157 28.8911L17.3432 23.5099L29.337 14.794Z" fill="white"/>
+                    <path d="M62.137 28.8911L54.7285 23.5099L59.9391 22.1552" fill="white"/>
+                    <path d="M66.7237 14.794H57.5531L54.7299 6.07809L51.8877 14.794L42.7266 14.7845L50.1446 20.1846L47.3024 28.8911L54.7299 23.5099L66.7237 14.794Z" fill="white"/>
+                    <path d="M99.5218 28.8911L92.1133 23.5099L97.3239 22.1552" fill="white"/>
+                    <path d="M104.099 14.794H94.9379L92.1147 6.07809L89.2725 14.794L80.1113 14.7845L87.5293 20.1846L84.6872 28.8911L92.1147 23.5099L104.099 14.794Z" fill="white"/>
+                    <path d="M136.903 28.8911L129.494 23.5099L134.705 22.1552" fill="white"/>
+                    <path d="M141.48 14.794H132.319L129.496 6.07809L126.653 14.794L117.492 14.7845L124.91 20.1846L122.068 28.8911L129.496 23.5099L141.48 14.794Z" fill="white"/>
+                    <path d="M166.864 0.147491H149.527V34.8311H166.864V0.147491Z" fill="#00AF7A"/>
+                    <path d="M174.291 28.891L166.873 23.5099L172.093 22.1552" fill="white"/>
+                    <path d="M178.868 14.794H169.707L166.874 6.07809L164.042 14.794L154.871 14.7845L162.289 20.1846L159.456 28.8911L166.874 23.5099L178.868 14.794Z" fill="white"/>
+                  </svg>
+
+                  <a href="https://www.trustpilot.com/review/nobs.eu" class="button black" target="_blank">Read more reviews</a>
+                </div>
+              </li>
+            </ul>
+            <div class="splide__arrows">
+              <button class="splide__arrow splide__arrow--prev">
+                <svg xmlns="http://www.w3.org/2000/svg" width="23" height="21" fill="none">
+                  <path stroke="#000" stroke-width="2" d="m13.043 20 8.31-8.814a1 1 0 0 0 0-1.372L13.043 1M21.686 10.666H0"/>
+                </svg>
+              </button>
+              <button class="splide__arrow splide__arrow--next">
+                <svg width="23" height="21" viewBox="0 0 23 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M13.043 20L21.3534 11.186C21.7166 10.8008 21.7166 10.1992 21.3534 9.81398L13.043 1" stroke="black" stroke-width="2"/>
+                  <line x1="21.6855" y1="10.6663" x2="-0.00037773" y2="10.6663" stroke="black" stroke-width="2"/>
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Splide('#reviews_carousel', {
+      type: 'slide',
+      perPage: 4,
+      perMove: 1,
+      pagination: false,
+      breakpoints: {
+        1024: {
+          perPage: 2,
+          pagination: true,
+          arrows: false,
+        },
+        767: {
+          arrows: false,
+          pagination: true,
+          perPage: 2,
+        },
+        640: {
+          arrows: false,
+          pagination: true,
+          perPage: 1,
+        },
+      },
+    }).mount();
+  });
+</script>
+
+
+</div><div id="shopify-section-template--22542215479633__multicolumn_Wb6kU6" class="shopify-section"><link href="//www.nobs.eu/cdn/shop/t/21/assets/section.multicolumn.css?v=136454732889632029581730468429" rel="stylesheet" type="text/css" media="all" />
+
+
+
+<section class="multicolumn-wrapper wrapper rounded theme-dark with-shadow">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="title">What experts say</h2>
+      </div>
+    </div>
+    <div class="multicolumn-columns">
+      <style>
+        .multicolumn-wrapper .multicolumn-columns {
+          display: grid;
+          grid-template-columns: repeat(4, 1fr);
+          grid-gap: 20px;
+        }
+      </style>
+      
+        <div class="column none ">
+          
+            <img src="//www.nobs.eu/cdn/shop/files/timgray.png?v=1723716194&amp;width=800" alt="" srcset="//www.nobs.eu/cdn/shop/files/timgray.png?v=1723716194&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/timgray.png?v=1723716194&amp;width=800 800w" width="800" height="800" loading="lazy" class="radius--small">
+          
+          <div class="content-wrapper center">
+            
+              <h4 class="body-large">
+            
+            Tim Gray
+            
+              </h4>
+            
+            <h4 class="body-medium subtitle">UK’s Leading Biohacker</h4>
+            <div class="content-flex-container">
+              <div class="rte content body-medium"><p>"Liver alone can cover 80% of your nutrient bases. I call it nature's multivitamin. Having it in capsules daily is a genuine health hack. Especially for people who don't like the taste of organs."</p></div>
+              
+            </div>
+          </div>
+        </div>
+      
+        <div class="column none ">
+          
+            <img src="//www.nobs.eu/cdn/shop/files/lauraruffer.png?v=1723716193&amp;width=800" alt="" srcset="//www.nobs.eu/cdn/shop/files/lauraruffer.png?v=1723716193&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/lauraruffer.png?v=1723716193&amp;width=800 800w" width="800" height="800" loading="lazy" class="radius--small">
+          
+          <div class="content-wrapper center">
+            
+              <h4 class="body-large">
+            
+            Laura Rüffer
+            
+              </h4>
+            
+            <h4 class="body-medium subtitle">Women’s Health & Nutrition Expert</h4>
+            <div class="content-flex-container">
+              <div class="rte content body-medium"><p>“For anyone struggling with energy crashes, hormone imbalances, or stubborn inflammation, beef organ supplements are a game-changer."</p></div>
+              
+            </div>
+          </div>
+        </div>
+      
+        <div class="column none ">
+          
+            <img src="//www.nobs.eu/cdn/shop/files/romy.png?v=1731324683&amp;width=800" alt="" srcset="//www.nobs.eu/cdn/shop/files/romy.png?v=1731324683&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/romy.png?v=1731324683&amp;width=800 800w" width="800" height="800" loading="lazy" class="radius--small">
+          
+          <div class="content-wrapper center">
+            
+              <h4 class="body-large">
+            
+            Romy Hugens
+            
+              </h4>
+            
+            <h4 class="body-medium subtitle">Holistic Health Coach</h4>
+            <div class="content-flex-container">
+              <div class="rte content body-medium"><p>"If you’re a woman, consider beef liver over a standard multivitamin. As a highly absorbable supplement, it can support your body’s nutrient needs and help maintain hormone balance."</p></div>
+              
+            </div>
+          </div>
+        </div>
+      
+        <div class="column none ">
+          
+            <img src="//www.nobs.eu/cdn/shop/files/benkhan.png?v=1723716192&amp;width=800" alt="" srcset="//www.nobs.eu/cdn/shop/files/benkhan.png?v=1723716192&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/benkhan.png?v=1723716192&amp;width=800 800w" width="800" height="800" loading="lazy" class="radius--small">
+          
+          <div class="content-wrapper center">
+            
+              <h4 class="body-large">
+            
+            Benjamin Khan
+            
+              </h4>
+            
+            <h4 class="body-medium subtitle">Nutritionist & Health Coach</h4>
+            <div class="content-flex-container">
+              <div class="rte content body-medium"><p>“Organ meats are a must in most people’s diet. Whenever people tell me they don’t eat them, I recommend NO BS supplements. The benefits are undeniable.”</p></div>
+              
+            </div>
+          </div>
+        </div>
+      
+    </div>
+  </div>
+</section>
+
+
+</div><div id="shopify-section-template--22542215479633__image_with_text_jpyHEd" class="shopify-section"><link href="//www.nobs.eu/cdn/shop/t/21/assets/section.image-with-text.css?v=7662906296024512731730457679" rel="stylesheet" type="text/css" media="all" />
+
+
+
+<div class="image-with-text-wrapper wrapper wrapper--small with-shadow theme-neutral rounded no-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-md-5 order-2 order-md-1">
+        <div class="content-wrapper">
+          <h2 class=""><p>our commitment</p></h2>
+          <div class="content body rte">
+            <p>Supplements should improve your health. Not negatively impact it with filler ingredients and microplastics.</p><p>Our name is our promise to you:</p><p>NO BS. Only properly sourced, pure and high quality nutrients to support your journey.</p>
+          </div>
+          
+            <a
+              
+                href="/pages/about"
+              
+              class="button  black"
+            >Learn More</a>
+          
+          
+        </div>
+      </div>
+      <div class="col-12 col-md-7 order-1 order-md-2 ">
+        <img src="//www.nobs.eu/cdn/shop/files/gabin-vallet-J154nEkpzlQ-unsplash_1.png?v=1723727005&amp;width=700" alt="" srcset="//www.nobs.eu/cdn/shop/files/gabin-vallet-J154nEkpzlQ-unsplash_1.png?v=1723727005&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/gabin-vallet-J154nEkpzlQ-unsplash_1.png?v=1723727005&amp;width=700 700w" width="700" height="461" loading="lazy">
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</div><div id="shopify-section-template--22542215479633__image_with_text_NA9FBB" class="shopify-section"><link href="//www.nobs.eu/cdn/shop/t/21/assets/section.image-with-text.css?v=7662906296024512731730457679" rel="stylesheet" type="text/css" media="all" />
+
+
+
+<div class="image-with-text-wrapper wrapper wrapper--small with-shadow theme-dark rounded no-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-md-5 order-2 ">
+        <div class="content-wrapper">
+          <h2 class=""><p>nutrition with integrity</p></h2>
+          <div class="content body rte">
+            <p>No empty words or cheap promises. Your health deserves better.</p><p>We base our supplements on evolutionary evidence, so you get everything you need, in the way it’s supposed to be:</p><p>Directly from Nature.</p>
+          </div>
+          
+            <a
+              
+                href="/collections/our-products"
+              
+              class="button  black"
+            >Continue shopping</a>
+          
+          
+        </div>
+      </div>
+      <div class="col-12 col-md-7 order-1">
+        <img src="//www.nobs.eu/cdn/shop/files/Mask_group222.png?v=1730062813&amp;width=700" alt="" srcset="//www.nobs.eu/cdn/shop/files/Mask_group222.png?v=1730062813&amp;width=352 352w, //www.nobs.eu/cdn/shop/files/Mask_group222.png?v=1730062813&amp;width=700 700w" width="700" height="655" loading="lazy">
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</div>
+
+    <!-- BEGIN sections: footer-group -->
+<div id="shopify-section-sections--22554698744145__newsletter_signup_VwrUVn" class="shopify-section shopify-section-group-footer-group"><link href="//www.nobs.eu/cdn/shop/t/21/assets/section.newsletter-signup.css?v=183875075857156898471730457680" rel="stylesheet" type="text/css" media="all" />
+
+<div class="newsletter-signup-wrapper wrapper theme-dark">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="content-container">
+          <h2 class="">
+            Save 10% on your next order
+          </h2>
+          <div class="subtitle body">
+            <p>Join our newsletter to learn more about how you can optimise your health and enjoy 10% off of your next order!</p>
+          </div>
+          <link href="//www.nobs.eu/cdn/shop/t/21/assets/snippet.customer-form.css?v=37402377049240731071730453226" rel="stylesheet" type="text/css" media="all" />
+
+<form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="customer-form"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
+  <input type="hidden" name="contact[tags]" value="newsletter">
+  <div class="newsletter-form__field-wrapper">
+    <div class="field">
+      <input
+        id="NewsletterForm--sections--22554698744145__newsletter_signup_VwrUVn"
+        type="text"
+        name="contact[first_name]"
+        class="field__input"
+        value=""
+        aria-required="true"
+        autocorrect="off"
+        autocapitalize="off"
+        autocomplete="first_name"
+        
+        placeholder="First name"
+        required
+      >
+    </div>
+    <div class="field">
+      <input
+        id="NewsletterForm--sections--22554698744145__newsletter_signup_VwrUVn"
+        type="email"
+        name="contact[email]"
+        class="field__input"
+        value=""
+        aria-required="true"
+        autocorrect="off"
+        autocapitalize="off"
+        autocomplete="email"
+        
+        placeholder="Email"
+        required
+      >
+    </div>
+    <div class="field">
+      <button
+        type="submit"
+        class="newsletter-form__button field__button white"
+        name="commit"
+        id="Subscribe"
+      >
+        <svg width="23" height="21" viewBox="0 0 23 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M13.043 20L21.3534 11.186C21.7166 10.8008 21.7166 10.1992 21.3534 9.81398L13.043 0.999998" stroke="black" stroke-width="2"/>
+          <line x1="21.6855" y1="10.6663" x2="-0.00037773" y2="10.6663" stroke="black" stroke-width="2"/>
+        </svg>
+      </button>
+    </div></div></form>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</div><div id="shopify-section-sections--22554698744145__usp_bar_iYyrTD" class="shopify-section shopify-section-group-footer-group"><link href="//www.nobs.eu/cdn/shop/t/21/assets/section.usp-bar.css?v=88658254859018222401730468430" rel="stylesheet" type="text/css" media="all" />
+
+<div class="usp-wrapper wrapper theme-dark">
+  <div class="container">
+    <div class="row">
+      
+        <div class="col-12 col-md-4">
+          <div class="usp">
+            <div class="usp-icon">
+              <img src="//www.nobs.eu/cdn/shop/files/same-day-shipping.svg?v=1723972814&amp;width=100" alt="" srcset="//www.nobs.eu/cdn/shop/files/same-day-shipping.svg?v=1723972814&amp;width=100 100w" width="100" height="55">
+            </div>
+            <p class="usp-title h4">Same Day Shipping</p>
+          </div>
+        </div>
+      
+        <div class="col-12 col-md-4">
+          <div class="usp">
+            <div class="usp-icon">
+              <img src="//www.nobs.eu/cdn/shop/files/free-shipping.svg?v=1723972817&amp;width=100" alt="" srcset="//www.nobs.eu/cdn/shop/files/free-shipping.svg?v=1723972817&amp;width=100 100w" width="100" height="100">
+            </div>
+            <p class="usp-title h4">Free Shipping over 100€</p>
+          </div>
+        </div>
+      
+        <div class="col-12 col-md-4">
+          <div class="usp">
+            <div class="usp-icon">
+              <img src="//www.nobs.eu/cdn/shop/files/money-back.svg?v=1723972816&amp;width=100" alt="" srcset="//www.nobs.eu/cdn/shop/files/money-back.svg?v=1723972816&amp;width=100 100w" width="100" height="74">
+            </div>
+            <p class="usp-title h4">Money Back Guarantee</p>
+          </div>
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+
+</div><div id="shopify-section-sections--22554698744145__footer" class="shopify-section shopify-section-group-footer-group"><link href="//www.nobs.eu/cdn/shop/t/21/assets/section.footer.css?v=168130852555112223611730468426" rel="stylesheet" type="text/css" media="all" />
+
+<footer class="footer-wrapper wrapper theme-dark">
+  <div class="container">
+    <div class="row">
+      
+        <div class="col-6 col-md-3">
+          <h4 class="footer-menu-title body-large">Shop</h4>
+          <ul class="footer-menu">
+            
+              <li class="body-medium">
+                <a href="/products/beef-liver">Beef Liver</a>
+              </li>
+            
+              <li class="body-medium">
+                <a href="/products/beef-organs">Beef Organs</a>
+              </li>
+            
+              <li class="body-medium">
+                <a href="/products/beef-brain">Beef Brain</a>
+              </li>
+            
+              <li class="body-medium">
+                <a href="/products/organs-bundle">Organs Bundle</a>
+              </li>
+            
+          </ul>
+        </div>
+      
+        <div class="col-6 col-md-3">
+          <h4 class="footer-menu-title body-large">Help</h4>
+          <ul class="footer-menu">
+            
+              <li class="body-medium">
+                <a href="/policies/shipping-policy">Shipping</a>
+              </li>
+            
+              <li class="body-medium">
+                <a href="/policies/refund-policy">Returns</a>
+              </li>
+            
+              <li class="body-medium">
+                <a href="/pages/faq">FAQ</a>
+              </li>
+            
+              <li class="body-medium">
+                <a href="/policies/terms-of-service">T&Cs</a>
+              </li>
+            
+              <li class="body-medium">
+                <a href="/policies/terms-of-service">Privacy</a>
+              </li>
+            
+          </ul>
+        </div>
+      
+        <div class="col-6 col-md-3">
+          <h4 class="footer-menu-title body-large">Learn</h4>
+          <ul class="footer-menu">
+            
+              <li class="body-medium">
+                <a href="/pages/about">About</a>
+              </li>
+            
+          </ul>
+        </div>
+      
+      <div class="col-6 col-md-3">
+        
+          <div class="social-icons">
+            
+              <a href="https://www.instagram.com/nobseurope/" target="_blank" rel="noopener noreferrer">
+                
+    <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <g clip-path="url(#clip0_212_6540)">
+      <path d="M18 3.24141C22.8094 3.24141 23.3789 3.2625 25.2703 3.34687C27.0281 3.42422 27.9773 3.71953 28.6102 3.96563C29.4469 4.28906 30.0516 4.68281 30.6773 5.30859C31.3102 5.94141 31.6969 6.53906 32.0203 7.37578C32.2664 8.00859 32.5617 8.96484 32.6391 10.7156C32.7234 12.6141 32.7445 13.1836 32.7445 17.9859C32.7445 22.7953 32.7234 23.3648 32.6391 25.2563C32.5617 27.0141 32.2664 27.9633 32.0203 28.5961C31.6969 29.4328 31.3031 30.0375 30.6773 30.6633C30.0445 31.2961 29.4469 31.6828 28.6102 32.0062C27.9773 32.2523 27.0211 32.5477 25.2703 32.625C23.3719 32.7094 22.8023 32.7305 18 32.7305C13.1906 32.7305 12.6211 32.7094 10.7297 32.625C8.97188 32.5477 8.02266 32.2523 7.38984 32.0062C6.55313 31.6828 5.94844 31.2891 5.32266 30.6633C4.68984 30.0305 4.30312 29.4328 3.97969 28.5961C3.73359 27.9633 3.43828 27.007 3.36094 25.2563C3.27656 23.3578 3.25547 22.7883 3.25547 17.9859C3.25547 13.1766 3.27656 12.607 3.36094 10.7156C3.43828 8.95781 3.73359 8.00859 3.97969 7.37578C4.30312 6.53906 4.69688 5.93437 5.32266 5.30859C5.95547 4.67578 6.55313 4.28906 7.38984 3.96563C8.02266 3.71953 8.97891 3.42422 10.7297 3.34687C12.6211 3.2625 13.1906 3.24141 18 3.24141ZM18 0C13.1133 0 12.5016 0.0210937 10.582 0.105469C8.66953 0.189844 7.35469 0.499219 6.21563 0.942187C5.02734 1.40625 4.02188 2.01797 3.02344 3.02344C2.01797 4.02187 1.40625 5.02734 0.942188 6.20859C0.499219 7.35469 0.189844 8.6625 0.105469 10.575C0.0210938 12.5016 0 13.1133 0 18C0 22.8867 0.0210938 23.4984 0.105469 25.418C0.189844 27.3305 0.499219 28.6453 0.942188 29.7844C1.40625 30.9727 2.01797 31.9781 3.02344 32.9766C4.02188 33.975 5.02734 34.5937 6.20859 35.0508C7.35469 35.4937 8.6625 35.8031 10.575 35.8875C12.4945 35.9719 13.1062 35.993 17.993 35.993C22.8797 35.993 23.4914 35.9719 25.4109 35.8875C27.3234 35.8031 28.6383 35.4937 29.7773 35.0508C30.9586 34.5937 31.9641 33.975 32.9625 32.9766C33.9609 31.9781 34.5797 30.9727 35.0367 29.7914C35.4797 28.6453 35.7891 27.3375 35.8734 25.425C35.9578 23.5055 35.9789 22.8937 35.9789 18.007C35.9789 13.1203 35.9578 12.5086 35.8734 10.5891C35.7891 8.67656 35.4797 7.36172 35.0367 6.22266C34.5938 5.02734 33.982 4.02187 32.9766 3.02344C31.9781 2.025 30.9727 1.40625 29.7914 0.949219C28.6453 0.50625 27.3375 0.196875 25.425 0.1125C23.4984 0.0210938 22.8867 0 18 0Z" fill="white"/>
+      <path d="M18 8.75391C12.8953 8.75391 8.75391 12.8953 8.75391 18C8.75391 23.1047 12.8953 27.2461 18 27.2461C23.1047 27.2461 27.2461 23.1047 27.2461 18C27.2461 12.8953 23.1047 8.75391 18 8.75391ZM18 23.9977C14.6883 23.9977 12.0023 21.3117 12.0023 18C12.0023 14.6883 14.6883 12.0023 18 12.0023C21.3117 12.0023 23.9977 14.6883 23.9977 18C23.9977 21.3117 21.3117 23.9977 18 23.9977Z" fill="white"/>
+      <path d="M29.7703 8.38809C29.7703 9.5834 28.8 10.5467 27.6117 10.5467C26.4164 10.5467 25.4531 9.57637 25.4531 8.38809C25.4531 7.19277 26.4234 6.22949 27.6117 6.22949C28.8 6.22949 29.7703 7.19981 29.7703 8.38809Z" fill="white"/>
+      </g>
+      <defs>
+      <clipPath id="clip0_212_6540">
+      <rect width="36" height="36" fill="white"/>
+      </clipPath>
+      </defs>
+    </svg>
+  
+
+              </a>
+            
+            
+            
+            
+          </div>
+        
+        
+          <div class="contact-email contact-email--desktop radius--medium">
+            <p>Contact</p>
+            <a href="mailto:support@nobs.eu">support@nobs.eu</a>
+          </div>
+        
+      </div>
+    </div>
+    <div class="row mt-5">
+      <div class="col-12 col-md-6">
+        
+<ul class="payment-methods">
+
+                  <li>
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" role="img" x="0" y="0" width="38" height="24" viewBox="0 0 165.521 105.965" xml:space="preserve" aria-labelledby="pi-apple_pay"><title id="pi-apple_pay">Apple Pay</title><path fill="#000" d="M150.698 0H14.823c-.566 0-1.133 0-1.698.003-.477.004-.953.009-1.43.022-1.039.028-2.087.09-3.113.274a10.51 10.51 0 0 0-2.958.975 9.932 9.932 0 0 0-4.35 4.35 10.463 10.463 0 0 0-.975 2.96C.113 9.611.052 10.658.024 11.696a70.22 70.22 0 0 0-.022 1.43C0 13.69 0 14.256 0 14.823v76.318c0 .567 0 1.132.002 1.699.003.476.009.953.022 1.43.028 1.036.09 2.084.275 3.11a10.46 10.46 0 0 0 .974 2.96 9.897 9.897 0 0 0 1.83 2.52 9.874 9.874 0 0 0 2.52 1.83c.947.483 1.917.79 2.96.977 1.025.183 2.073.245 3.112.273.477.011.953.017 1.43.02.565.004 1.132.004 1.698.004h135.875c.565 0 1.132 0 1.697-.004.476-.002.952-.009 1.431-.02 1.037-.028 2.085-.09 3.113-.273a10.478 10.478 0 0 0 2.958-.977 9.955 9.955 0 0 0 4.35-4.35c.483-.947.789-1.917.974-2.96.186-1.026.246-2.074.274-3.11.013-.477.02-.954.022-1.43.004-.567.004-1.132.004-1.699V14.824c0-.567 0-1.133-.004-1.699a63.067 63.067 0 0 0-.022-1.429c-.028-1.038-.088-2.085-.274-3.112a10.4 10.4 0 0 0-.974-2.96 9.94 9.94 0 0 0-4.35-4.35A10.52 10.52 0 0 0 156.939.3c-1.028-.185-2.076-.246-3.113-.274a71.417 71.417 0 0 0-1.431-.022C151.83 0 151.263 0 150.698 0z" /><path fill="#FFF" d="M150.698 3.532l1.672.003c.452.003.905.008 1.36.02.793.022 1.719.065 2.583.22.75.135 1.38.34 1.984.648a6.392 6.392 0 0 1 2.804 2.807c.306.6.51 1.226.645 1.983.154.854.197 1.783.218 2.58.013.45.019.9.02 1.36.005.557.005 1.113.005 1.671v76.318c0 .558 0 1.114-.004 1.682-.002.45-.008.9-.02 1.35-.022.796-.065 1.725-.221 2.589a6.855 6.855 0 0 1-.645 1.975 6.397 6.397 0 0 1-2.808 2.807c-.6.306-1.228.511-1.971.645-.881.157-1.847.2-2.574.22-.457.01-.912.017-1.379.019-.555.004-1.113.004-1.669.004H14.801c-.55 0-1.1 0-1.66-.004a74.993 74.993 0 0 1-1.35-.018c-.744-.02-1.71-.064-2.584-.22a6.938 6.938 0 0 1-1.986-.65 6.337 6.337 0 0 1-1.622-1.18 6.355 6.355 0 0 1-1.178-1.623 6.935 6.935 0 0 1-.646-1.985c-.156-.863-.2-1.788-.22-2.578a66.088 66.088 0 0 1-.02-1.355l-.003-1.327V14.474l.002-1.325a66.7 66.7 0 0 1 .02-1.357c.022-.792.065-1.717.222-2.587a6.924 6.924 0 0 1 .646-1.981c.304-.598.7-1.144 1.18-1.623a6.386 6.386 0 0 1 1.624-1.18 6.96 6.96 0 0 1 1.98-.646c.865-.155 1.792-.198 2.586-.22.452-.012.905-.017 1.354-.02l1.677-.003h135.875" /><g><g><path fill="#000" d="M43.508 35.77c1.404-1.755 2.356-4.112 2.105-6.52-2.054.102-4.56 1.355-6.012 3.112-1.303 1.504-2.456 3.959-2.156 6.266 2.306.2 4.61-1.152 6.063-2.858" /><path fill="#000" d="M45.587 39.079c-3.35-.2-6.196 1.9-7.795 1.9-1.6 0-4.049-1.8-6.698-1.751-3.447.05-6.645 2-8.395 5.1-3.598 6.2-.95 15.4 2.55 20.45 1.699 2.5 3.747 5.25 6.445 5.151 2.55-.1 3.549-1.65 6.647-1.65 3.097 0 3.997 1.65 6.696 1.6 2.798-.05 4.548-2.5 6.247-5 1.95-2.85 2.747-5.6 2.797-5.75-.05-.05-5.396-2.101-5.446-8.251-.05-5.15 4.198-7.6 4.398-7.751-2.399-3.548-6.147-3.948-7.447-4.048" /></g><g><path fill="#000" d="M78.973 32.11c7.278 0 12.347 5.017 12.347 12.321 0 7.33-5.173 12.373-12.529 12.373h-8.058V69.62h-5.822V32.11h14.062zm-8.24 19.807h6.68c5.07 0 7.954-2.729 7.954-7.46 0-4.73-2.885-7.434-7.928-7.434h-6.706v14.894z" /><path fill="#000" d="M92.764 61.847c0-4.809 3.665-7.564 10.423-7.98l7.252-.442v-2.08c0-3.04-2.001-4.704-5.562-4.704-2.938 0-5.07 1.507-5.51 3.82h-5.252c.157-4.86 4.731-8.395 10.918-8.395 6.654 0 10.995 3.483 10.995 8.89v18.663h-5.38v-4.497h-.13c-1.534 2.937-4.914 4.782-8.579 4.782-5.406 0-9.175-3.222-9.175-8.057zm17.675-2.417v-2.106l-6.472.416c-3.64.234-5.536 1.585-5.536 3.95 0 2.288 1.975 3.77 5.068 3.77 3.95 0 6.94-2.522 6.94-6.03z" /><path fill="#000" d="M120.975 79.652v-4.496c.364.051 1.247.103 1.715.103 2.573 0 4.029-1.09 4.913-3.899l.52-1.663-9.852-27.293h6.082l6.863 22.146h.13l6.862-22.146h5.927l-10.216 28.67c-2.34 6.577-5.017 8.735-10.683 8.735-.442 0-1.872-.052-2.261-.157z" /></g></g></svg>
+
+                  </li>
+                
+
+
+
+
+                  <li>
+                    <svg viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-master"><title id="pi-master">Mastercard</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><circle fill="#EB001B" cx="15" cy="12" r="7"/><circle fill="#F79E1B" cx="23" cy="12" r="7"/><path fill="#FF5F00" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"/></svg>
+                  </li>
+                
+
+                  <li>
+                    <svg viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" width="38" height="24" role="img" aria-labelledby="pi-paypal"><title id="pi-paypal">PayPal</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path fill="#003087" d="M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z"/><path fill="#3086C8" d="M23.9 8.3l-.2.2c-.5 2.8-2.2 3.8-4.6 3.8H18c-.3 0-.5.2-.6.5l-.6 3.9-.2 1c0 .2.1.4.3.4H19c.3 0 .5-.2.5-.4v-.1l.4-2.4v-.1c0-.2.3-.4.5-.4h.3c2.1 0 3.7-.8 4.1-3.2.2-1 .1-1.8-.4-2.4-.1-.5-.3-.7-.5-.8z"/><path fill="#012169" d="M23.3 8.1c-.1-.1-.2-.1-.3-.1-.1 0-.2 0-.3-.1-.3-.1-.7-.1-1.1-.1h-3c-.1 0-.2 0-.2.1-.2.1-.3.2-.3.4l-.7 4.4v.1c0-.3.3-.5.6-.5h1.3c2.5 0 4.1-1 4.6-3.8v-.2c-.1-.1-.3-.2-.5-.2h-.1z"/></svg>
+                  </li>
+                
+
+
+
+                  <li>
+                    <svg viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-visa"><title id="pi-visa">Visa</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z" fill="#142688"/></svg>
+                  </li>
+                
+</ul>
+      </div>
+      <div class="col-12 d-block d-md-none">
+        
+          <div class="contact-email contact-email--mobile radius--medium">
+            <p>Contact</p>
+            <a href="mailto:support@nobs.eu">support@nobs.eu</a>
+          </div>
+        
+      </div>
+      <div class="col-12 col-md-6">
+        <p class="copyright">©2024 NO BS — BE 0784.604.195</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</div>
+<!-- END sections: footer-group -->
+
+    <script>
+      setTimeout(function () {
+        document.body.classList.remove('preload');
+      }, 500);
+    </script>
+  </body>
+</html>
